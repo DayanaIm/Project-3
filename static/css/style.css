@@ -1,0 +1,192 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed&family=Ubuntu&display=swap');
+
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+/* --------------------- */
+/* BUTTON */
+/* --------------------- */
+.button {
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 30px;
+    border-color: #7e79ee;
+    border-width: 1px;
+    border-style: solid; 
+    background-color: #736CED;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(56,53,116,0.50); 
+    box-shadow: 5px 5px 15px 5px rgba(56,53,116,0.50);
+}
+
+
+
+/* --------------------- */
+/* COVER */
+/* --------------------- */
+#cover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: linear-gradient(to bottom, #736ced, #8c7aec, #a18aec, #b29aec, #c2aaec, #d4b1e7, #e1bae2, #eac4e0, #f2c9d8, #f5d0d4, #f5d7d3, #f2dfd7);
+
+}
+
+#cover h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 50px;
+    max-width: 880px;
+}
+
+#cover p {
+    text-align: center;
+    max-width: 880px;
+    font-size: 18px;
+    line-height: 25px;
+}
+
+#cover .button {
+    margin-top: 60px;
+}
+
+/* --------------------- */
+/* TEAM */
+/* --------------------- */
+#team {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#team img {
+    width: 120px;
+    height: auto;
+    margin: 20px;
+}
+
+#team p {
+   text-align: center;
+}
+
+#separatedSentence {
+    text-align: center;
+    margin-top: 30px;
+    max-width: 900px;
+    font-size: 20px;
+    border-top: 2px solid black;
+    padding-top: 10px;
+    
+}
+
+
+#arrow {
+    height: 50px;
+    width: auto;
+    margin-top: 10px;
+}
+
+
+/* --------------------- */
+/* LEARN MORE */
+/* --------------------- */
+#learnMore {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%;
+    background-color: #D4C1EC;
+    background-color: #F2DFD7;
+    background-image: radial-gradient(#736CED 0.8px, #F2DFD7 0.8px);
+    background-size: 16px 16px;
+}
+#groupOfCards {
+    padding: 40px 0;
+    max-width: 800px;
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+    
+}
+
+.card {
+    background-color: #EDC6DD;
+    border-radius: 16px;
+    padding: 40px 35px;
+
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(56,53,116,0.40); 
+    box-shadow: 5px 5px 15px 5px rgba(56,53,116,0.40);
+
+    background: rgb(241,231,255);
+    background: linear-gradient(180deg, rgba(241,231,255,1) 0%, rgba(248,231,255,1) 100%);
+}
+
+
+.card h2 {
+    text-transform: uppercase;
+}
+
+.card img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    height: 200px;
+    width: auto;
+}
+
+.card p {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+/* --------------------- */
+/* GRAPHS */
+/* --------------------- */
+#header {
+    position: fixed;
+    width: 100%;
+    display: flex;
+    background: rgb(241,231,255);
+    background: linear-gradient(180deg, rgba(241,231,255,1) 0%, rgba(248,231,255,1) 100%);
+    align-items: center;
+    padding: 10px 20px;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(56,53,116,0.50); 
+    box-shadow: 5px 5px 15px 5px rgba(56,53,116,0.50);
+}
+
+#header h1 {
+    font-size: 15px;
+    padding-left: 30px;
+}
+
+#header .button {
+    font-size: 15px;
+    box-shadow: none;
+}
+
+#graph{
+    padding-top: 120px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%;
+    background-color: #D4C1EC;
+    background-color: #F2DFD7;
+    background-image: radial-gradient(#736CED 0.8px, #F2DFD7 0.8px);
+    background-size: 16px 16px;
+}
