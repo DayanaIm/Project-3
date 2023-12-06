@@ -21631,306 +21631,306 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 21630,Saint Lucia,2014,female,75+ years,0,4163,0,Silent
 21631,Saint Lucia,2014,male,5-14 years,0,12649,0,Generation Z
 21632,Saint Lucia,2014,male,75+ years,0,3082,0,Silent
-21633,Saint Vincent and Grenadines,1985,male,35-54 years,2,6100,32.79,Silent
-21634,Saint Vincent and Grenadines,1985,female,15-24 years,0,11900,0,Generation X
-21635,Saint Vincent and Grenadines,1985,female,25-34 years,0,9200,0,Boomers
-21636,Saint Vincent and Grenadines,1985,female,35-54 years,0,7400,0,Silent
-21637,Saint Vincent and Grenadines,1985,female,5-14 years,0,12300,0,Generation X
-21638,Saint Vincent and Grenadines,1985,female,55-74 years,0,4100,0,G.I. Generation
-21639,Saint Vincent and Grenadines,1985,female,75+ years,0,1000,0,G.I. Generation
-21640,Saint Vincent and Grenadines,1985,male,15-24 years,0,12100,0,Generation X
-21641,Saint Vincent and Grenadines,1985,male,25-34 years,0,9300,0,Boomers
-21642,Saint Vincent and Grenadines,1985,male,5-14 years,0,12800,0,Generation X
-21643,Saint Vincent and Grenadines,1985,male,55-74 years,0,2900,0,G.I. Generation
-21644,Saint Vincent and Grenadines,1985,male,75+ years,0,700,0,G.I. Generation
-21645,Saint Vincent and Grenadines,1986,female,15-24 years,0,12100,0,Generation X
-21646,Saint Vincent and Grenadines,1986,female,25-34 years,0,9300,0,Boomers
-21647,Saint Vincent and Grenadines,1986,female,35-54 years,0,7400,0,Silent
-21648,Saint Vincent and Grenadines,1986,female,5-14 years,0,12500,0,Generation X
-21649,Saint Vincent and Grenadines,1986,female,55-74 years,0,4100,0,G.I. Generation
-21650,Saint Vincent and Grenadines,1986,female,75+ years,0,1000,0,G.I. Generation
-21651,Saint Vincent and Grenadines,1986,male,15-24 years,0,12300,0,Generation X
-21652,Saint Vincent and Grenadines,1986,male,25-34 years,0,9400,0,Boomers
-21653,Saint Vincent and Grenadines,1986,male,35-54 years,0,6100,0,Silent
-21654,Saint Vincent and Grenadines,1986,male,5-14 years,0,13000,0,Generation X
-21655,Saint Vincent and Grenadines,1986,male,55-74 years,0,2900,0,G.I. Generation
-21656,Saint Vincent and Grenadines,1986,male,75+ years,0,700,0,G.I. Generation
-21657,Saint Vincent and Grenadines,1987,female,15-24 years,0,11800,0,Generation X
-21658,Saint Vincent and Grenadines,1987,female,25-34 years,0,7722,0,Boomers
-21659,Saint Vincent and Grenadines,1987,female,35-54 years,0,7471,0,Silent
-21660,Saint Vincent and Grenadines,1987,female,5-14 years,0,13490,0,Generation X
-21661,Saint Vincent and Grenadines,1987,female,55-74 years,0,4835,0,G.I. Generation
-21662,Saint Vincent and Grenadines,1987,female,75+ years,0,1500,0,G.I. Generation
-21663,Saint Vincent and Grenadines,1987,male,15-24 years,0,12015,0,Generation X
-21664,Saint Vincent and Grenadines,1987,male,25-34 years,0,7324,0,Boomers
-21665,Saint Vincent and Grenadines,1987,male,35-54 years,0,7072,0,Silent
-21666,Saint Vincent and Grenadines,1987,male,5-14 years,0,13801,0,Generation X
-21667,Saint Vincent and Grenadines,1987,male,55-74 years,0,4058,0,G.I. Generation
-21668,Saint Vincent and Grenadines,1987,male,75+ years,0,948,0,G.I. Generation
-21669,Saint Vincent and Grenadines,1990,male,25-34 years,3,8514,35.24,Boomers
-21670,Saint Vincent and Grenadines,1990,male,55-74 years,1,4229,23.65,G.I. Generation
-21671,Saint Vincent and Grenadines,1990,male,35-54 years,1,7593,13.17,Silent
-21672,Saint Vincent and Grenadines,1990,female,15-24 years,0,11097,0,Generation X
-21673,Saint Vincent and Grenadines,1990,female,25-34 years,0,8323,0,Boomers
-21674,Saint Vincent and Grenadines,1990,female,35-54 years,0,7762,0,Silent
-21675,Saint Vincent and Grenadines,1990,female,5-14 years,0,13580,0,Generation X
-21676,Saint Vincent and Grenadines,1990,female,55-74 years,0,5128,0,G.I. Generation
-21677,Saint Vincent and Grenadines,1990,female,75+ years,0,1532,0,G.I. Generation
-21678,Saint Vincent and Grenadines,1990,male,15-24 years,0,11489,0,Generation X
-21679,Saint Vincent and Grenadines,1990,male,5-14 years,0,13853,0,Generation X
-21680,Saint Vincent and Grenadines,1990,male,75+ years,0,1041,0,G.I. Generation
-21681,Saint Vincent and Grenadines,1995,male,35-54 years,4,9078,44.06,Boomers
-21682,Saint Vincent and Grenadines,1995,male,55-74 years,1,4642,21.54,Silent
-21683,Saint Vincent and Grenadines,1995,male,25-34 years,1,9023,11.08,Generation X
-21684,Saint Vincent and Grenadines,1995,male,15-24 years,1,11449,8.73,Generation X
-21685,Saint Vincent and Grenadines,1995,female,15-24 years,0,11061,0,Generation X
-21686,Saint Vincent and Grenadines,1995,female,25-34 years,0,8575,0,Generation X
-21687,Saint Vincent and Grenadines,1995,female,35-54 years,0,8791,0,Boomers
-21688,Saint Vincent and Grenadines,1995,female,5-14 years,0,12450,0,Millenials
-21689,Saint Vincent and Grenadines,1995,female,55-74 years,0,5396,0,Silent
-21690,Saint Vincent and Grenadines,1995,female,75+ years,0,1681,0,G.I. Generation
-21691,Saint Vincent and Grenadines,1995,male,5-14 years,0,12625,0,Millenials
-21692,Saint Vincent and Grenadines,1995,male,75+ years,0,1203,0,G.I. Generation
-21693,Saint Vincent and Grenadines,1996,male,25-34 years,4,9020,44.35,Generation X
-21694,Saint Vincent and Grenadines,1996,male,35-54 years,2,9518,21.01,Boomers
-21695,Saint Vincent and Grenadines,1996,female,35-54 years,1,9172,10.9,Boomers
-21696,Saint Vincent and Grenadines,1996,male,15-24 years,1,11360,8.8,Generation X
-21697,Saint Vincent and Grenadines,1996,female,15-24 years,0,10978,0,Generation X
-21698,Saint Vincent and Grenadines,1996,female,25-34 years,0,8535,0,Generation X
-21699,Saint Vincent and Grenadines,1996,female,5-14 years,0,12189,0,Millenials
-21700,Saint Vincent and Grenadines,1996,female,55-74 years,0,5346,0,Silent
-21701,Saint Vincent and Grenadines,1996,female,75+ years,0,1733,0,G.I. Generation
-21702,Saint Vincent and Grenadines,1996,male,5-14 years,0,12360,0,Millenials
-21703,Saint Vincent and Grenadines,1996,male,55-74 years,0,4651,0,Silent
-21704,Saint Vincent and Grenadines,1996,male,75+ years,0,1233,0,G.I. Generation
-21705,Saint Vincent and Grenadines,1997,male,25-34 years,1,8956,11.17,Generation X
-21706,Saint Vincent and Grenadines,1997,male,35-54 years,1,10022,9.98,Boomers
-21707,Saint Vincent and Grenadines,1997,male,15-24 years,1,11269,8.87,Generation X
-21708,Saint Vincent and Grenadines,1997,female,15-24 years,0,10897,0,Generation X
-21709,Saint Vincent and Grenadines,1997,female,25-34 years,0,8443,0,Generation X
-21710,Saint Vincent and Grenadines,1997,female,35-54 years,0,9614,0,Boomers
-21711,Saint Vincent and Grenadines,1997,female,5-14 years,0,11950,0,Millenials
-21712,Saint Vincent and Grenadines,1997,female,55-74 years,0,5289,0,Silent
-21713,Saint Vincent and Grenadines,1997,female,75+ years,0,1780,0,G.I. Generation
-21714,Saint Vincent and Grenadines,1997,male,5-14 years,0,12124,0,Millenials
-21715,Saint Vincent and Grenadines,1997,male,55-74 years,0,4666,0,Silent
-21716,Saint Vincent and Grenadines,1997,male,75+ years,0,1245,0,G.I. Generation
-21717,Saint Vincent and Grenadines,1998,male,75+ years,1,1251,79.94,G.I. Generation
-21718,Saint Vincent and Grenadines,1998,male,55-74 years,2,4684,42.7,Silent
-21719,Saint Vincent and Grenadines,1998,male,35-54 years,4,10556,37.89,Boomers
-21720,Saint Vincent and Grenadines,1998,male,25-34 years,3,8852,33.89,Generation X
-21721,Saint Vincent and Grenadines,1998,female,15-24 years,0,10819,0,Generation X
-21722,Saint Vincent and Grenadines,1998,female,25-34 years,0,8318,0,Generation X
-21723,Saint Vincent and Grenadines,1998,female,35-54 years,0,10094,0,Boomers
-21724,Saint Vincent and Grenadines,1998,female,5-14 years,0,11738,0,Millenials
-21725,Saint Vincent and Grenadines,1998,female,55-74 years,0,5226,0,Silent
-21726,Saint Vincent and Grenadines,1998,female,75+ years,0,1810,0,G.I. Generation
-21727,Saint Vincent and Grenadines,1998,male,15-24 years,0,11181,0,Generation X
-21728,Saint Vincent and Grenadines,1998,male,5-14 years,0,11920,0,Millenials
-21729,Saint Vincent and Grenadines,1999,male,35-54 years,4,11082,36.09,Boomers
-21730,Saint Vincent and Grenadines,1999,male,55-74 years,1,4717,21.2,Silent
-21731,Saint Vincent and Grenadines,1999,male,5-14 years,1,11747,8.51,Millenials
-21732,Saint Vincent and Grenadines,1999,female,15-24 years,0,10747,0,Generation X
-21733,Saint Vincent and Grenadines,1999,female,25-34 years,0,8186,0,Generation X
-21734,Saint Vincent and Grenadines,1999,female,35-54 years,0,10547,0,Boomers
-21735,Saint Vincent and Grenadines,1999,female,5-14 years,0,11554,0,Millenials
-21736,Saint Vincent and Grenadines,1999,female,55-74 years,0,5187,0,Silent
-21737,Saint Vincent and Grenadines,1999,female,75+ years,0,1840,0,G.I. Generation
-21738,Saint Vincent and Grenadines,1999,male,15-24 years,0,11093,0,Generation X
-21739,Saint Vincent and Grenadines,1999,male,25-34 years,0,8736,0,Generation X
-21740,Saint Vincent and Grenadines,1999,male,75+ years,0,1249,0,G.I. Generation
-21741,Saint Vincent and Grenadines,2000,male,35-54 years,3,11565,25.94,Boomers
-21742,Saint Vincent and Grenadines,2000,male,15-24 years,2,11006,18.17,Generation X
-21743,Saint Vincent and Grenadines,2000,female,15-24 years,0,10682,0,Generation X
-21744,Saint Vincent and Grenadines,2000,female,25-34 years,0,8075,0,Generation X
-21745,Saint Vincent and Grenadines,2000,female,35-54 years,0,10952,0,Boomers
-21746,Saint Vincent and Grenadines,2000,female,5-14 years,0,11396,0,Millenials
-21747,Saint Vincent and Grenadines,2000,female,55-74 years,0,5182,0,Silent
-21748,Saint Vincent and Grenadines,2000,female,75+ years,0,1861,0,G.I. Generation
-21749,Saint Vincent and Grenadines,2000,male,25-34 years,0,8625,0,Generation X
-21750,Saint Vincent and Grenadines,2000,male,5-14 years,0,11593,0,Millenials
-21751,Saint Vincent and Grenadines,2000,male,55-74 years,0,4776,0,Silent
-21752,Saint Vincent and Grenadines,2000,male,75+ years,0,1243,0,G.I. Generation
-21753,Saint Vincent and Grenadines,2001,male,75+ years,1,1260,79.37,Silent
-21754,Saint Vincent and Grenadines,2001,male,35-54 years,3,11990,25.02,Boomers
-21755,Saint Vincent and Grenadines,2001,male,25-34 years,2,8657,23.1,Generation X
-21756,Saint Vincent and Grenadines,2001,male,55-74 years,1,4798,20.84,Silent
-21757,Saint Vincent and Grenadines,2001,female,25-34 years,1,8112,12.33,Generation X
-21758,Saint Vincent and Grenadines,2001,female,15-24 years,0,10638,0,Millenials
-21759,Saint Vincent and Grenadines,2001,female,35-54 years,0,11314,0,Boomers
-21760,Saint Vincent and Grenadines,2001,female,5-14 years,0,11209,0,Millenials
-21761,Saint Vincent and Grenadines,2001,female,55-74 years,0,5142,0,Silent
-21762,Saint Vincent and Grenadines,2001,female,75+ years,0,1879,0,Silent
-21763,Saint Vincent and Grenadines,2001,male,15-24 years,0,10929,0,Millenials
-21764,Saint Vincent and Grenadines,2001,male,5-14 years,0,11413,0,Millenials
-21765,Saint Vincent and Grenadines,2002,male,75+ years,2,1270,157.48,Silent
-21766,Saint Vincent and Grenadines,2002,male,35-54 years,2,12383,16.15,Boomers
-21767,Saint Vincent and Grenadines,2002,male,25-34 years,1,8713,11.48,Generation X
-21768,Saint Vincent and Grenadines,2002,male,15-24 years,1,10839,9.23,Millenials
-21769,Saint Vincent and Grenadines,2002,female,35-54 years,1,11640,8.59,Boomers
-21770,Saint Vincent and Grenadines,2002,female,15-24 years,0,10586,0,Millenials
-21771,Saint Vincent and Grenadines,2002,female,25-34 years,0,8183,0,Generation X
-21772,Saint Vincent and Grenadines,2002,female,5-14 years,0,11047,0,Millenials
-21773,Saint Vincent and Grenadines,2002,female,55-74 years,0,5140,0,Silent
-21774,Saint Vincent and Grenadines,2002,female,75+ years,0,1887,0,Silent
-21775,Saint Vincent and Grenadines,2002,male,5-14 years,0,11257,0,Millenials
-21776,Saint Vincent and Grenadines,2002,male,55-74 years,0,4854,0,Silent
-21777,Saint Vincent and Grenadines,2003,male,25-34 years,2,8774,22.79,Generation X
-21778,Saint Vincent and Grenadines,2003,male,55-74 years,1,4931,20.28,Silent
-21779,Saint Vincent and Grenadines,2003,male,35-54 years,1,12755,7.84,Boomers
-21780,Saint Vincent and Grenadines,2003,female,15-24 years,0,10526,0,Millenials
-21781,Saint Vincent and Grenadines,2003,female,25-34 years,0,8273,0,Generation X
-21782,Saint Vincent and Grenadines,2003,female,35-54 years,0,11938,0,Boomers
-21783,Saint Vincent and Grenadines,2003,female,5-14 years,0,10901,0,Millenials
-21784,Saint Vincent and Grenadines,2003,female,55-74 years,0,5176,0,Silent
-21785,Saint Vincent and Grenadines,2003,female,75+ years,0,1891,0,Silent
-21786,Saint Vincent and Grenadines,2003,male,15-24 years,0,10742,0,Millenials
-21787,Saint Vincent and Grenadines,2003,male,5-14 years,0,11110,0,Millenials
-21788,Saint Vincent and Grenadines,2003,male,75+ years,0,1275,0,Silent
-21789,Saint Vincent and Grenadines,2004,male,55-74 years,1,5030,19.88,Silent
-21790,Saint Vincent and Grenadines,2004,male,35-54 years,2,13116,15.25,Boomers
-21791,Saint Vincent and Grenadines,2004,male,25-34 years,1,8823,11.33,Generation X
-21792,Saint Vincent and Grenadines,2004,female,15-24 years,0,10459,0,Millenials
-21793,Saint Vincent and Grenadines,2004,female,25-34 years,0,8353,0,Generation X
-21794,Saint Vincent and Grenadines,2004,female,35-54 years,0,12215,0,Boomers
-21795,Saint Vincent and Grenadines,2004,female,5-14 years,0,10749,0,Millenials
-21796,Saint Vincent and Grenadines,2004,female,55-74 years,0,5239,0,Silent
-21797,Saint Vincent and Grenadines,2004,female,75+ years,0,1885,0,Silent
-21798,Saint Vincent and Grenadines,2004,male,15-24 years,0,10640,0,Millenials
-21799,Saint Vincent and Grenadines,2004,male,5-14 years,0,10961,0,Millenials
-21800,Saint Vincent and Grenadines,2004,male,75+ years,0,1270,0,Silent
-21801,Saint Vincent and Grenadines,2005,male,15-24 years,4,10542,37.94,Millenials
-21802,Saint Vincent and Grenadines,2005,male,35-54 years,2,13458,14.86,Boomers
-21803,Saint Vincent and Grenadines,2005,male,25-34 years,1,8846,11.3,Generation X
-21804,Saint Vincent and Grenadines,2005,female,35-54 years,1,12482,8.01,Boomers
-21805,Saint Vincent and Grenadines,2005,female,15-24 years,0,10390,0,Millenials
-21806,Saint Vincent and Grenadines,2005,female,25-34 years,0,8413,0,Generation X
-21807,Saint Vincent and Grenadines,2005,female,5-14 years,0,10587,0,Millenials
-21808,Saint Vincent and Grenadines,2005,female,55-74 years,0,5331,0,Silent
-21809,Saint Vincent and Grenadines,2005,female,75+ years,0,1869,0,Silent
-21810,Saint Vincent and Grenadines,2005,male,5-14 years,0,10795,0,Millenials
-21811,Saint Vincent and Grenadines,2005,male,55-74 years,0,5148,0,Silent
-21812,Saint Vincent and Grenadines,2005,male,75+ years,0,1257,0,Silent
-21813,Saint Vincent and Grenadines,2006,male,75+ years,1,1269,78.8,Silent
-21814,Saint Vincent and Grenadines,2006,male,35-54 years,2,13702,14.6,Boomers
-21815,Saint Vincent and Grenadines,2006,male,25-34 years,1,8894,11.24,Generation X
-21816,Saint Vincent and Grenadines,2006,male,15-24 years,1,10473,9.55,Millenials
-21817,Saint Vincent and Grenadines,2006,female,35-54 years,1,12698,7.88,Boomers
-21818,Saint Vincent and Grenadines,2006,female,15-24 years,0,10320,0,Millenials
-21819,Saint Vincent and Grenadines,2006,female,25-34 years,0,8494,0,Generation X
-21820,Saint Vincent and Grenadines,2006,female,5-14 years,0,10460,0,Millenials
-21821,Saint Vincent and Grenadines,2006,female,55-74 years,0,5404,0,Silent
-21822,Saint Vincent and Grenadines,2006,female,75+ years,0,1857,0,Silent
-21823,Saint Vincent and Grenadines,2006,male,5-14 years,0,10674,0,Millenials
-21824,Saint Vincent and Grenadines,2006,male,55-74 years,0,5218,0,Silent
-21825,Saint Vincent and Grenadines,2007,male,25-34 years,4,8927,44.81,Generation X
-21826,Saint Vincent and Grenadines,2007,male,15-24 years,3,10403,28.84,Millenials
-21827,Saint Vincent and Grenadines,2007,male,35-54 years,4,13920,28.74,Boomers
-21828,Saint Vincent and Grenadines,2007,female,15-24 years,0,10243,0,Millenials
-21829,Saint Vincent and Grenadines,2007,female,25-34 years,0,8564,0,Generation X
-21830,Saint Vincent and Grenadines,2007,female,35-54 years,0,12889,0,Boomers
-21831,Saint Vincent and Grenadines,2007,female,5-14 years,0,10307,0,Generation Z
-21832,Saint Vincent and Grenadines,2007,female,55-74 years,0,5514,0,Silent
-21833,Saint Vincent and Grenadines,2007,female,75+ years,0,1825,0,Silent
-21834,Saint Vincent and Grenadines,2007,male,5-14 years,0,10526,0,Generation Z
-21835,Saint Vincent and Grenadines,2007,male,55-74 years,0,5306,0,Silent
-21836,Saint Vincent and Grenadines,2007,male,75+ years,0,1265,0,Silent
-21837,Saint Vincent and Grenadines,2008,male,55-74 years,1,5420,18.45,Silent
-21838,Saint Vincent and Grenadines,2008,male,35-54 years,2,14103,14.18,Boomers
-21839,Saint Vincent and Grenadines,2008,female,35-54 years,1,13057,7.66,Boomers
-21840,Saint Vincent and Grenadines,2008,female,15-24 years,0,10175,0,Millenials
-21841,Saint Vincent and Grenadines,2008,female,25-34 years,0,8614,0,Generation X
-21842,Saint Vincent and Grenadines,2008,female,5-14 years,0,10132,0,Generation Z
-21843,Saint Vincent and Grenadines,2008,female,55-74 years,0,5642,0,Silent
-21844,Saint Vincent and Grenadines,2008,female,75+ years,0,1792,0,Silent
-21845,Saint Vincent and Grenadines,2008,male,15-24 years,0,10344,0,Millenials
-21846,Saint Vincent and Grenadines,2008,male,25-34 years,0,8944,0,Generation X
-21847,Saint Vincent and Grenadines,2008,male,5-14 years,0,10348,0,Generation Z
-21848,Saint Vincent and Grenadines,2008,male,75+ years,0,1255,0,Silent
-21849,Saint Vincent and Grenadines,2009,male,25-34 years,1,8944,11.18,Generation X
-21850,Saint Vincent and Grenadines,2009,female,15-24 years,0,10126,0,Millenials
-21851,Saint Vincent and Grenadines,2009,female,25-34 years,0,8643,0,Generation X
-21852,Saint Vincent and Grenadines,2009,female,35-54 years,0,13206,0,Boomers
-21853,Saint Vincent and Grenadines,2009,female,5-14 years,0,9944,0,Generation Z
-21854,Saint Vincent and Grenadines,2009,female,55-74 years,0,5787,0,Silent
-21855,Saint Vincent and Grenadines,2009,female,75+ years,0,1761,0,Silent
-21856,Saint Vincent and Grenadines,2009,male,15-24 years,0,10305,0,Millenials
-21857,Saint Vincent and Grenadines,2009,male,35-54 years,0,14258,0,Boomers
-21858,Saint Vincent and Grenadines,2009,male,5-14 years,0,10156,0,Generation Z
-21859,Saint Vincent and Grenadines,2009,male,55-74 years,0,5558,0,Silent
-21860,Saint Vincent and Grenadines,2009,male,75+ years,0,1239,0,Silent
-21861,Saint Vincent and Grenadines,2010,male,25-34 years,4,8930,44.79,Generation X
-21862,Saint Vincent and Grenadines,2010,male,5-14 years,1,9962,10.04,Generation Z
-21863,Saint Vincent and Grenadines,2010,female,15-24 years,0,10100,0,Millenials
-21864,Saint Vincent and Grenadines,2010,female,25-34 years,0,8656,0,Generation X
-21865,Saint Vincent and Grenadines,2010,female,35-54 years,0,13330,0,Generation X
-21866,Saint Vincent and Grenadines,2010,female,5-14 years,0,9754,0,Generation Z
-21867,Saint Vincent and Grenadines,2010,female,55-74 years,0,5951,0,Silent
-21868,Saint Vincent and Grenadines,2010,female,75+ years,0,1741,0,Silent
-21869,Saint Vincent and Grenadines,2010,male,15-24 years,0,10289,0,Millenials
-21870,Saint Vincent and Grenadines,2010,male,35-54 years,0,14386,0,Generation X
-21871,Saint Vincent and Grenadines,2010,male,55-74 years,0,5730,0,Silent
-21872,Saint Vincent and Grenadines,2010,male,75+ years,0,1221,0,Silent
-21873,Saint Vincent and Grenadines,2011,male,35-54 years,3,14471,20.73,Generation X
-21874,Saint Vincent and Grenadines,2011,female,55-74 years,1,6091,16.42,Boomers
-21875,Saint Vincent and Grenadines,2011,male,15-24 years,1,10177,9.83,Millenials
-21876,Saint Vincent and Grenadines,2011,female,15-24 years,0,9973,0,Millenials
-21877,Saint Vincent and Grenadines,2011,female,25-34 years,0,8686,0,Millenials
-21878,Saint Vincent and Grenadines,2011,female,35-54 years,0,13447,0,Generation X
-21879,Saint Vincent and Grenadines,2011,female,5-14 years,0,9530,0,Generation Z
-21880,Saint Vincent and Grenadines,2011,female,75+ years,0,1807,0,Silent
-21881,Saint Vincent and Grenadines,2011,male,25-34 years,0,8921,0,Millenials
-21882,Saint Vincent and Grenadines,2011,male,5-14 years,0,9742,0,Generation Z
-21883,Saint Vincent and Grenadines,2011,male,55-74 years,0,5909,0,Boomers
-21884,Saint Vincent and Grenadines,2011,male,75+ years,0,1283,0,Silent
-21885,Saint Vincent and Grenadines,2012,male,25-34 years,2,8898,22.48,Millenials
-21886,Saint Vincent and Grenadines,2012,male,15-24 years,2,10078,19.85,Millenials
-21887,Saint Vincent and Grenadines,2012,male,55-74 years,1,6126,16.32,Boomers
-21888,Saint Vincent and Grenadines,2012,female,35-54 years,2,13558,14.75,Generation X
-21889,Saint Vincent and Grenadines,2012,male,35-54 years,2,14545,13.75,Generation X
-21890,Saint Vincent and Grenadines,2012,female,15-24 years,1,9859,10.14,Millenials
-21891,Saint Vincent and Grenadines,2012,female,25-34 years,0,8700,0,Millenials
-21892,Saint Vincent and Grenadines,2012,female,5-14 years,0,9355,0,Generation Z
-21893,Saint Vincent and Grenadines,2012,female,55-74 years,0,6253,0,Boomers
-21894,Saint Vincent and Grenadines,2012,female,75+ years,0,1881,0,Silent
-21895,Saint Vincent and Grenadines,2012,male,5-14 years,0,9568,0,Generation Z
-21896,Saint Vincent and Grenadines,2012,male,75+ years,0,1346,0,Silent
-21897,Saint Vincent and Grenadines,2013,female,15-24 years,0,9748,0,Millenials
-21898,Saint Vincent and Grenadines,2013,female,25-34 years,0,8694,0,Millenials
-21899,Saint Vincent and Grenadines,2013,female,35-54 years,0,13666,0,Generation X
-21900,Saint Vincent and Grenadines,2013,female,5-14 years,0,9231,0,Generation Z
-21901,Saint Vincent and Grenadines,2013,female,55-74 years,0,6444,0,Boomers
-21902,Saint Vincent and Grenadines,2013,female,75+ years,0,1948,0,Silent
-21903,Saint Vincent and Grenadines,2013,male,15-24 years,0,9986,0,Millenials
-21904,Saint Vincent and Grenadines,2013,male,25-34 years,0,8863,0,Millenials
-21905,Saint Vincent and Grenadines,2013,male,35-54 years,0,14602,0,Generation X
-21906,Saint Vincent and Grenadines,2013,male,5-14 years,0,9440,0,Generation Z
-21907,Saint Vincent and Grenadines,2013,male,55-74 years,0,6377,0,Boomers
-21908,Saint Vincent and Grenadines,2013,male,75+ years,0,1399,0,Silent
-21909,Saint Vincent and Grenadines,2014,male,75+ years,1,1440,69.44,Silent
-21910,Saint Vincent and Grenadines,2014,male,25-34 years,1,8817,11.34,Millenials
-21911,Saint Vincent and Grenadines,2014,female,15-24 years,0,9636,0,Millenials
-21912,Saint Vincent and Grenadines,2014,female,25-34 years,0,8665,0,Millenials
-21913,Saint Vincent and Grenadines,2014,female,35-54 years,0,13751,0,Generation X
-21914,Saint Vincent and Grenadines,2014,female,5-14 years,0,9144,0,Generation Z
-21915,Saint Vincent and Grenadines,2014,female,55-74 years,0,6689,0,Boomers
-21916,Saint Vincent and Grenadines,2014,female,75+ years,0,1991,0,Silent
-21917,Saint Vincent and Grenadines,2014,male,15-24 years,0,9888,0,Millenials
-21918,Saint Vincent and Grenadines,2014,male,35-54 years,0,14629,0,Generation X
-21919,Saint Vincent and Grenadines,2014,male,5-14 years,0,9346,0,Generation Z
-21920,Saint Vincent and Grenadines,2014,male,55-74 years,0,6680,0,Boomers
-21921,Saint Vincent and Grenadines,2015,female,5-14 years,1,9071,11.02,Generation Z
-21922,Saint Vincent and Grenadines,2015,male,15-24 years,1,9783,10.22,Millenials
-21923,Saint Vincent and Grenadines,2015,male,35-54 years,1,14619,6.84,Generation X
-21924,Saint Vincent and Grenadines,2015,female,15-24 years,0,9515,0,Millenials
-21925,Saint Vincent and Grenadines,2015,female,25-34 years,0,8622,0,Millenials
-21926,Saint Vincent and Grenadines,2015,female,35-54 years,0,13809,0,Generation X
-21927,Saint Vincent and Grenadines,2015,female,55-74 years,0,6999,0,Boomers
-21928,Saint Vincent and Grenadines,2015,female,75+ years,0,2012,0,Silent
-21929,Saint Vincent and Grenadines,2015,male,25-34 years,0,8762,0,Millenials
-21930,Saint Vincent and Grenadines,2015,male,5-14 years,0,9266,0,Generation Z
-21931,Saint Vincent and Grenadines,2015,male,55-74 years,0,7031,0,Boomers
-21932,Saint Vincent and Grenadines,2015,male,75+ years,0,1459,0,Silent
+21633,Saint Vincent and the Grenadines,1985,male,35-54 years,2,6100,32.79,Silent
+21634,Saint Vincent and the Grenadines,1985,female,15-24 years,0,11900,0,Generation X
+21635,Saint Vincent and the Grenadines,1985,female,25-34 years,0,9200,0,Boomers
+21636,Saint Vincent and the Grenadines,1985,female,35-54 years,0,7400,0,Silent
+21637,Saint Vincent and the Grenadines,1985,female,5-14 years,0,12300,0,Generation X
+21638,Saint Vincent and the Grenadines,1985,female,55-74 years,0,4100,0,G.I. Generation
+21639,Saint Vincent and the Grenadines,1985,female,75+ years,0,1000,0,G.I. Generation
+21640,Saint Vincent and the Grenadines,1985,male,15-24 years,0,12100,0,Generation X
+21641,Saint Vincent and the Grenadines,1985,male,25-34 years,0,9300,0,Boomers
+21642,Saint Vincent and the Grenadines,1985,male,5-14 years,0,12800,0,Generation X
+21643,Saint Vincent and the Grenadines,1985,male,55-74 years,0,2900,0,G.I. Generation
+21644,Saint Vincent and the Grenadines,1985,male,75+ years,0,700,0,G.I. Generation
+21645,Saint Vincent and the Grenadines,1986,female,15-24 years,0,12100,0,Generation X
+21646,Saint Vincent and the Grenadines,1986,female,25-34 years,0,9300,0,Boomers
+21647,Saint Vincent and the Grenadines,1986,female,35-54 years,0,7400,0,Silent
+21648,Saint Vincent and the Grenadines,1986,female,5-14 years,0,12500,0,Generation X
+21649,Saint Vincent and the Grenadines,1986,female,55-74 years,0,4100,0,G.I. Generation
+21650,Saint Vincent and the Grenadines,1986,female,75+ years,0,1000,0,G.I. Generation
+21651,Saint Vincent and the Grenadines,1986,male,15-24 years,0,12300,0,Generation X
+21652,Saint Vincent and the Grenadines,1986,male,25-34 years,0,9400,0,Boomers
+21653,Saint Vincent and the Grenadines,1986,male,35-54 years,0,6100,0,Silent
+21654,Saint Vincent and the Grenadines,1986,male,5-14 years,0,13000,0,Generation X
+21655,Saint Vincent and the Grenadines,1986,male,55-74 years,0,2900,0,G.I. Generation
+21656,Saint Vincent and the Grenadines,1986,male,75+ years,0,700,0,G.I. Generation
+21657,Saint Vincent and the Grenadines,1987,female,15-24 years,0,11800,0,Generation X
+21658,Saint Vincent and the Grenadines,1987,female,25-34 years,0,7722,0,Boomers
+21659,Saint Vincent and the Grenadines,1987,female,35-54 years,0,7471,0,Silent
+21660,Saint Vincent and the Grenadines,1987,female,5-14 years,0,13490,0,Generation X
+21661,Saint Vincent and the Grenadines,1987,female,55-74 years,0,4835,0,G.I. Generation
+21662,Saint Vincent and the Grenadines,1987,female,75+ years,0,1500,0,G.I. Generation
+21663,Saint Vincent and the Grenadines,1987,male,15-24 years,0,12015,0,Generation X
+21664,Saint Vincent and the Grenadines,1987,male,25-34 years,0,7324,0,Boomers
+21665,Saint Vincent and the Grenadines,1987,male,35-54 years,0,7072,0,Silent
+21666,Saint Vincent and the Grenadines,1987,male,5-14 years,0,13801,0,Generation X
+21667,Saint Vincent and the Grenadines,1987,male,55-74 years,0,4058,0,G.I. Generation
+21668,Saint Vincent and the Grenadines,1987,male,75+ years,0,948,0,G.I. Generation
+21669,Saint Vincent and the Grenadines,1990,male,25-34 years,3,8514,35.24,Boomers
+21670,Saint Vincent and the Grenadines,1990,male,55-74 years,1,4229,23.65,G.I. Generation
+21671,Saint Vincent and the Grenadines,1990,male,35-54 years,1,7593,13.17,Silent
+21672,Saint Vincent and the Grenadines,1990,female,15-24 years,0,11097,0,Generation X
+21673,Saint Vincent and the Grenadines,1990,female,25-34 years,0,8323,0,Boomers
+21674,Saint Vincent and the Grenadines,1990,female,35-54 years,0,7762,0,Silent
+21675,Saint Vincent and the Grenadines,1990,female,5-14 years,0,13580,0,Generation X
+21676,Saint Vincent and the Grenadines,1990,female,55-74 years,0,5128,0,G.I. Generation
+21677,Saint Vincent and the Grenadines,1990,female,75+ years,0,1532,0,G.I. Generation
+21678,Saint Vincent and the Grenadines,1990,male,15-24 years,0,11489,0,Generation X
+21679,Saint Vincent and the Grenadines,1990,male,5-14 years,0,13853,0,Generation X
+21680,Saint Vincent and the Grenadines,1990,male,75+ years,0,1041,0,G.I. Generation
+21681,Saint Vincent and the Grenadines,1995,male,35-54 years,4,9078,44.06,Boomers
+21682,Saint Vincent and the Grenadines,1995,male,55-74 years,1,4642,21.54,Silent
+21683,Saint Vincent and the Grenadines,1995,male,25-34 years,1,9023,11.08,Generation X
+21684,Saint Vincent and the Grenadines,1995,male,15-24 years,1,11449,8.73,Generation X
+21685,Saint Vincent and the Grenadines,1995,female,15-24 years,0,11061,0,Generation X
+21686,Saint Vincent and the Grenadines,1995,female,25-34 years,0,8575,0,Generation X
+21687,Saint Vincent and the Grenadines,1995,female,35-54 years,0,8791,0,Boomers
+21688,Saint Vincent and the Grenadines,1995,female,5-14 years,0,12450,0,Millenials
+21689,Saint Vincent and the Grenadines,1995,female,55-74 years,0,5396,0,Silent
+21690,Saint Vincent and the Grenadines,1995,female,75+ years,0,1681,0,G.I. Generation
+21691,Saint Vincent and the Grenadines,1995,male,5-14 years,0,12625,0,Millenials
+21692,Saint Vincent and the Grenadines,1995,male,75+ years,0,1203,0,G.I. Generation
+21693,Saint Vincent and the Grenadines,1996,male,25-34 years,4,9020,44.35,Generation X
+21694,Saint Vincent and the Grenadines,1996,male,35-54 years,2,9518,21.01,Boomers
+21695,Saint Vincent and the Grenadines,1996,female,35-54 years,1,9172,10.9,Boomers
+21696,Saint Vincent and the Grenadines,1996,male,15-24 years,1,11360,8.8,Generation X
+21697,Saint Vincent and the Grenadines,1996,female,15-24 years,0,10978,0,Generation X
+21698,Saint Vincent and the Grenadines,1996,female,25-34 years,0,8535,0,Generation X
+21699,Saint Vincent and the Grenadines,1996,female,5-14 years,0,12189,0,Millenials
+21700,Saint Vincent and the Grenadines,1996,female,55-74 years,0,5346,0,Silent
+21701,Saint Vincent and the Grenadines,1996,female,75+ years,0,1733,0,G.I. Generation
+21702,Saint Vincent and the Grenadines,1996,male,5-14 years,0,12360,0,Millenials
+21703,Saint Vincent and the Grenadines,1996,male,55-74 years,0,4651,0,Silent
+21704,Saint Vincent and the Grenadines,1996,male,75+ years,0,1233,0,G.I. Generation
+21705,Saint Vincent and the Grenadines,1997,male,25-34 years,1,8956,11.17,Generation X
+21706,Saint Vincent and the Grenadines,1997,male,35-54 years,1,10022,9.98,Boomers
+21707,Saint Vincent and the Grenadines,1997,male,15-24 years,1,11269,8.87,Generation X
+21708,Saint Vincent and the Grenadines,1997,female,15-24 years,0,10897,0,Generation X
+21709,Saint Vincent and the Grenadines,1997,female,25-34 years,0,8443,0,Generation X
+21710,Saint Vincent and the Grenadines,1997,female,35-54 years,0,9614,0,Boomers
+21711,Saint Vincent and the Grenadines,1997,female,5-14 years,0,11950,0,Millenials
+21712,Saint Vincent and the Grenadines,1997,female,55-74 years,0,5289,0,Silent
+21713,Saint Vincent and the Grenadines,1997,female,75+ years,0,1780,0,G.I. Generation
+21714,Saint Vincent and the Grenadines,1997,male,5-14 years,0,12124,0,Millenials
+21715,Saint Vincent and the Grenadines,1997,male,55-74 years,0,4666,0,Silent
+21716,Saint Vincent and the Grenadines,1997,male,75+ years,0,1245,0,G.I. Generation
+21717,Saint Vincent and the Grenadines,1998,male,75+ years,1,1251,79.94,G.I. Generation
+21718,Saint Vincent and the Grenadines,1998,male,55-74 years,2,4684,42.7,Silent
+21719,Saint Vincent and the Grenadines,1998,male,35-54 years,4,10556,37.89,Boomers
+21720,Saint Vincent and the Grenadines,1998,male,25-34 years,3,8852,33.89,Generation X
+21721,Saint Vincent and the Grenadines,1998,female,15-24 years,0,10819,0,Generation X
+21722,Saint Vincent and the Grenadines,1998,female,25-34 years,0,8318,0,Generation X
+21723,Saint Vincent and the Grenadines,1998,female,35-54 years,0,10094,0,Boomers
+21724,Saint Vincent and the Grenadines,1998,female,5-14 years,0,11738,0,Millenials
+21725,Saint Vincent and the Grenadines,1998,female,55-74 years,0,5226,0,Silent
+21726,Saint Vincent and the Grenadines,1998,female,75+ years,0,1810,0,G.I. Generation
+21727,Saint Vincent and the Grenadines,1998,male,15-24 years,0,11181,0,Generation X
+21728,Saint Vincent and the Grenadines,1998,male,5-14 years,0,11920,0,Millenials
+21729,Saint Vincent and the Grenadines,1999,male,35-54 years,4,11082,36.09,Boomers
+21730,Saint Vincent and the Grenadines,1999,male,55-74 years,1,4717,21.2,Silent
+21731,Saint Vincent and the Grenadines,1999,male,5-14 years,1,11747,8.51,Millenials
+21732,Saint Vincent and the Grenadines,1999,female,15-24 years,0,10747,0,Generation X
+21733,Saint Vincent and the Grenadines,1999,female,25-34 years,0,8186,0,Generation X
+21734,Saint Vincent and the Grenadines,1999,female,35-54 years,0,10547,0,Boomers
+21735,Saint Vincent and the Grenadines,1999,female,5-14 years,0,11554,0,Millenials
+21736,Saint Vincent and the Grenadines,1999,female,55-74 years,0,5187,0,Silent
+21737,Saint Vincent and the Grenadines,1999,female,75+ years,0,1840,0,G.I. Generation
+21738,Saint Vincent and the Grenadines,1999,male,15-24 years,0,11093,0,Generation X
+21739,Saint Vincent and the Grenadines,1999,male,25-34 years,0,8736,0,Generation X
+21740,Saint Vincent and the Grenadines,1999,male,75+ years,0,1249,0,G.I. Generation
+21741,Saint Vincent and the Grenadines,2000,male,35-54 years,3,11565,25.94,Boomers
+21742,Saint Vincent and the Grenadines,2000,male,15-24 years,2,11006,18.17,Generation X
+21743,Saint Vincent and the Grenadines,2000,female,15-24 years,0,10682,0,Generation X
+21744,Saint Vincent and the Grenadines,2000,female,25-34 years,0,8075,0,Generation X
+21745,Saint Vincent and the Grenadines,2000,female,35-54 years,0,10952,0,Boomers
+21746,Saint Vincent and the Grenadines,2000,female,5-14 years,0,11396,0,Millenials
+21747,Saint Vincent and the Grenadines,2000,female,55-74 years,0,5182,0,Silent
+21748,Saint Vincent and the Grenadines,2000,female,75+ years,0,1861,0,G.I. Generation
+21749,Saint Vincent and the Grenadines,2000,male,25-34 years,0,8625,0,Generation X
+21750,Saint Vincent and the Grenadines,2000,male,5-14 years,0,11593,0,Millenials
+21751,Saint Vincent and the Grenadines,2000,male,55-74 years,0,4776,0,Silent
+21752,Saint Vincent and the Grenadines,2000,male,75+ years,0,1243,0,G.I. Generation
+21753,Saint Vincent and the Grenadines,2001,male,75+ years,1,1260,79.37,Silent
+21754,Saint Vincent and the Grenadines,2001,male,35-54 years,3,11990,25.02,Boomers
+21755,Saint Vincent and the Grenadines,2001,male,25-34 years,2,8657,23.1,Generation X
+21756,Saint Vincent and the Grenadines,2001,male,55-74 years,1,4798,20.84,Silent
+21757,Saint Vincent and the Grenadines,2001,female,25-34 years,1,8112,12.33,Generation X
+21758,Saint Vincent and the Grenadines,2001,female,15-24 years,0,10638,0,Millenials
+21759,Saint Vincent and the Grenadines,2001,female,35-54 years,0,11314,0,Boomers
+21760,Saint Vincent and the Grenadines,2001,female,5-14 years,0,11209,0,Millenials
+21761,Saint Vincent and the Grenadines,2001,female,55-74 years,0,5142,0,Silent
+21762,Saint Vincent and the Grenadines,2001,female,75+ years,0,1879,0,Silent
+21763,Saint Vincent and the Grenadines,2001,male,15-24 years,0,10929,0,Millenials
+21764,Saint Vincent and the Grenadines,2001,male,5-14 years,0,11413,0,Millenials
+21765,Saint Vincent and the Grenadines,2002,male,75+ years,2,1270,157.48,Silent
+21766,Saint Vincent and the Grenadines,2002,male,35-54 years,2,12383,16.15,Boomers
+21767,Saint Vincent and the Grenadines,2002,male,25-34 years,1,8713,11.48,Generation X
+21768,Saint Vincent and the Grenadines,2002,male,15-24 years,1,10839,9.23,Millenials
+21769,Saint Vincent and the Grenadines,2002,female,35-54 years,1,11640,8.59,Boomers
+21770,Saint Vincent and the Grenadines,2002,female,15-24 years,0,10586,0,Millenials
+21771,Saint Vincent and the Grenadines,2002,female,25-34 years,0,8183,0,Generation X
+21772,Saint Vincent and the Grenadines,2002,female,5-14 years,0,11047,0,Millenials
+21773,Saint Vincent and the Grenadines,2002,female,55-74 years,0,5140,0,Silent
+21774,Saint Vincent and the Grenadines,2002,female,75+ years,0,1887,0,Silent
+21775,Saint Vincent and the Grenadines,2002,male,5-14 years,0,11257,0,Millenials
+21776,Saint Vincent and the Grenadines,2002,male,55-74 years,0,4854,0,Silent
+21777,Saint Vincent and the Grenadines,2003,male,25-34 years,2,8774,22.79,Generation X
+21778,Saint Vincent and the Grenadines,2003,male,55-74 years,1,4931,20.28,Silent
+21779,Saint Vincent and the Grenadines,2003,male,35-54 years,1,12755,7.84,Boomers
+21780,Saint Vincent and the Grenadines,2003,female,15-24 years,0,10526,0,Millenials
+21781,Saint Vincent and the Grenadines,2003,female,25-34 years,0,8273,0,Generation X
+21782,Saint Vincent and the Grenadines,2003,female,35-54 years,0,11938,0,Boomers
+21783,Saint Vincent and the Grenadines,2003,female,5-14 years,0,10901,0,Millenials
+21784,Saint Vincent and the Grenadines,2003,female,55-74 years,0,5176,0,Silent
+21785,Saint Vincent and the Grenadines,2003,female,75+ years,0,1891,0,Silent
+21786,Saint Vincent and the Grenadines,2003,male,15-24 years,0,10742,0,Millenials
+21787,Saint Vincent and the Grenadines,2003,male,5-14 years,0,11110,0,Millenials
+21788,Saint Vincent and the Grenadines,2003,male,75+ years,0,1275,0,Silent
+21789,Saint Vincent and the Grenadines,2004,male,55-74 years,1,5030,19.88,Silent
+21790,Saint Vincent and the Grenadines,2004,male,35-54 years,2,13116,15.25,Boomers
+21791,Saint Vincent and the Grenadines,2004,male,25-34 years,1,8823,11.33,Generation X
+21792,Saint Vincent and the Grenadines,2004,female,15-24 years,0,10459,0,Millenials
+21793,Saint Vincent and the Grenadines,2004,female,25-34 years,0,8353,0,Generation X
+21794,Saint Vincent and the Grenadines,2004,female,35-54 years,0,12215,0,Boomers
+21795,Saint Vincent and the Grenadines,2004,female,5-14 years,0,10749,0,Millenials
+21796,Saint Vincent and the Grenadines,2004,female,55-74 years,0,5239,0,Silent
+21797,Saint Vincent and the Grenadines,2004,female,75+ years,0,1885,0,Silent
+21798,Saint Vincent and the Grenadines,2004,male,15-24 years,0,10640,0,Millenials
+21799,Saint Vincent and the Grenadines,2004,male,5-14 years,0,10961,0,Millenials
+21800,Saint Vincent and the Grenadines,2004,male,75+ years,0,1270,0,Silent
+21801,Saint Vincent and the Grenadines,2005,male,15-24 years,4,10542,37.94,Millenials
+21802,Saint Vincent and the Grenadines,2005,male,35-54 years,2,13458,14.86,Boomers
+21803,Saint Vincent and the Grenadines,2005,male,25-34 years,1,8846,11.3,Generation X
+21804,Saint Vincent and the Grenadines,2005,female,35-54 years,1,12482,8.01,Boomers
+21805,Saint Vincent and the Grenadines,2005,female,15-24 years,0,10390,0,Millenials
+21806,Saint Vincent and the Grenadines,2005,female,25-34 years,0,8413,0,Generation X
+21807,Saint Vincent and the Grenadines,2005,female,5-14 years,0,10587,0,Millenials
+21808,Saint Vincent and the Grenadines,2005,female,55-74 years,0,5331,0,Silent
+21809,Saint Vincent and the Grenadines,2005,female,75+ years,0,1869,0,Silent
+21810,Saint Vincent and the Grenadines,2005,male,5-14 years,0,10795,0,Millenials
+21811,Saint Vincent and the Grenadines,2005,male,55-74 years,0,5148,0,Silent
+21812,Saint Vincent and the Grenadines,2005,male,75+ years,0,1257,0,Silent
+21813,Saint Vincent and the Grenadines,2006,male,75+ years,1,1269,78.8,Silent
+21814,Saint Vincent and the Grenadines,2006,male,35-54 years,2,13702,14.6,Boomers
+21815,Saint Vincent and the Grenadines,2006,male,25-34 years,1,8894,11.24,Generation X
+21816,Saint Vincent and the Grenadines,2006,male,15-24 years,1,10473,9.55,Millenials
+21817,Saint Vincent and the Grenadines,2006,female,35-54 years,1,12698,7.88,Boomers
+21818,Saint Vincent and the Grenadines,2006,female,15-24 years,0,10320,0,Millenials
+21819,Saint Vincent and the Grenadines,2006,female,25-34 years,0,8494,0,Generation X
+21820,Saint Vincent and the Grenadines,2006,female,5-14 years,0,10460,0,Millenials
+21821,Saint Vincent and the Grenadines,2006,female,55-74 years,0,5404,0,Silent
+21822,Saint Vincent and the Grenadines,2006,female,75+ years,0,1857,0,Silent
+21823,Saint Vincent and the Grenadines,2006,male,5-14 years,0,10674,0,Millenials
+21824,Saint Vincent and the Grenadines,2006,male,55-74 years,0,5218,0,Silent
+21825,Saint Vincent and the Grenadines,2007,male,25-34 years,4,8927,44.81,Generation X
+21826,Saint Vincent and the Grenadines,2007,male,15-24 years,3,10403,28.84,Millenials
+21827,Saint Vincent and the Grenadines,2007,male,35-54 years,4,13920,28.74,Boomers
+21828,Saint Vincent and the Grenadines,2007,female,15-24 years,0,10243,0,Millenials
+21829,Saint Vincent and the Grenadines,2007,female,25-34 years,0,8564,0,Generation X
+21830,Saint Vincent and the Grenadines,2007,female,35-54 years,0,12889,0,Boomers
+21831,Saint Vincent and the Grenadines,2007,female,5-14 years,0,10307,0,Generation Z
+21832,Saint Vincent and the Grenadines,2007,female,55-74 years,0,5514,0,Silent
+21833,Saint Vincent and the Grenadines,2007,female,75+ years,0,1825,0,Silent
+21834,Saint Vincent and the Grenadines,2007,male,5-14 years,0,10526,0,Generation Z
+21835,Saint Vincent and the Grenadines,2007,male,55-74 years,0,5306,0,Silent
+21836,Saint Vincent and the Grenadines,2007,male,75+ years,0,1265,0,Silent
+21837,Saint Vincent and the Grenadines,2008,male,55-74 years,1,5420,18.45,Silent
+21838,Saint Vincent and the Grenadines,2008,male,35-54 years,2,14103,14.18,Boomers
+21839,Saint Vincent and the Grenadines,2008,female,35-54 years,1,13057,7.66,Boomers
+21840,Saint Vincent and the Grenadines,2008,female,15-24 years,0,10175,0,Millenials
+21841,Saint Vincent and the Grenadines,2008,female,25-34 years,0,8614,0,Generation X
+21842,Saint Vincent and the Grenadines,2008,female,5-14 years,0,10132,0,Generation Z
+21843,Saint Vincent and the Grenadines,2008,female,55-74 years,0,5642,0,Silent
+21844,Saint Vincent and the Grenadines,2008,female,75+ years,0,1792,0,Silent
+21845,Saint Vincent and the Grenadines,2008,male,15-24 years,0,10344,0,Millenials
+21846,Saint Vincent and the Grenadines,2008,male,25-34 years,0,8944,0,Generation X
+21847,Saint Vincent and the Grenadines,2008,male,5-14 years,0,10348,0,Generation Z
+21848,Saint Vincent and the Grenadines,2008,male,75+ years,0,1255,0,Silent
+21849,Saint Vincent and the Grenadines,2009,male,25-34 years,1,8944,11.18,Generation X
+21850,Saint Vincent and the Grenadines,2009,female,15-24 years,0,10126,0,Millenials
+21851,Saint Vincent and the Grenadines,2009,female,25-34 years,0,8643,0,Generation X
+21852,Saint Vincent and the Grenadines,2009,female,35-54 years,0,13206,0,Boomers
+21853,Saint Vincent and the Grenadines,2009,female,5-14 years,0,9944,0,Generation Z
+21854,Saint Vincent and the Grenadines,2009,female,55-74 years,0,5787,0,Silent
+21855,Saint Vincent and the Grenadines,2009,female,75+ years,0,1761,0,Silent
+21856,Saint Vincent and the Grenadines,2009,male,15-24 years,0,10305,0,Millenials
+21857,Saint Vincent and the Grenadines,2009,male,35-54 years,0,14258,0,Boomers
+21858,Saint Vincent and the Grenadines,2009,male,5-14 years,0,10156,0,Generation Z
+21859,Saint Vincent and the Grenadines,2009,male,55-74 years,0,5558,0,Silent
+21860,Saint Vincent and the Grenadines,2009,male,75+ years,0,1239,0,Silent
+21861,Saint Vincent and the Grenadines,2010,male,25-34 years,4,8930,44.79,Generation X
+21862,Saint Vincent and the Grenadines,2010,male,5-14 years,1,9962,10.04,Generation Z
+21863,Saint Vincent and the Grenadines,2010,female,15-24 years,0,10100,0,Millenials
+21864,Saint Vincent and the Grenadines,2010,female,25-34 years,0,8656,0,Generation X
+21865,Saint Vincent and the Grenadines,2010,female,35-54 years,0,13330,0,Generation X
+21866,Saint Vincent and the Grenadines,2010,female,5-14 years,0,9754,0,Generation Z
+21867,Saint Vincent and the Grenadines,2010,female,55-74 years,0,5951,0,Silent
+21868,Saint Vincent and the Grenadines,2010,female,75+ years,0,1741,0,Silent
+21869,Saint Vincent and the Grenadines,2010,male,15-24 years,0,10289,0,Millenials
+21870,Saint Vincent and the Grenadines,2010,male,35-54 years,0,14386,0,Generation X
+21871,Saint Vincent and the Grenadines,2010,male,55-74 years,0,5730,0,Silent
+21872,Saint Vincent and the Grenadines,2010,male,75+ years,0,1221,0,Silent
+21873,Saint Vincent and the Grenadines,2011,male,35-54 years,3,14471,20.73,Generation X
+21874,Saint Vincent and the Grenadines,2011,female,55-74 years,1,6091,16.42,Boomers
+21875,Saint Vincent and the Grenadines,2011,male,15-24 years,1,10177,9.83,Millenials
+21876,Saint Vincent and the Grenadines,2011,female,15-24 years,0,9973,0,Millenials
+21877,Saint Vincent and the Grenadines,2011,female,25-34 years,0,8686,0,Millenials
+21878,Saint Vincent and the Grenadines,2011,female,35-54 years,0,13447,0,Generation X
+21879,Saint Vincent and the Grenadines,2011,female,5-14 years,0,9530,0,Generation Z
+21880,Saint Vincent and the Grenadines,2011,female,75+ years,0,1807,0,Silent
+21881,Saint Vincent and the Grenadines,2011,male,25-34 years,0,8921,0,Millenials
+21882,Saint Vincent and the Grenadines,2011,male,5-14 years,0,9742,0,Generation Z
+21883,Saint Vincent and the Grenadines,2011,male,55-74 years,0,5909,0,Boomers
+21884,Saint Vincent and the Grenadines,2011,male,75+ years,0,1283,0,Silent
+21885,Saint Vincent and the Grenadines,2012,male,25-34 years,2,8898,22.48,Millenials
+21886,Saint Vincent and the Grenadines,2012,male,15-24 years,2,10078,19.85,Millenials
+21887,Saint Vincent and the Grenadines,2012,male,55-74 years,1,6126,16.32,Boomers
+21888,Saint Vincent and the Grenadines,2012,female,35-54 years,2,13558,14.75,Generation X
+21889,Saint Vincent and the Grenadines,2012,male,35-54 years,2,14545,13.75,Generation X
+21890,Saint Vincent and the Grenadines,2012,female,15-24 years,1,9859,10.14,Millenials
+21891,Saint Vincent and the Grenadines,2012,female,25-34 years,0,8700,0,Millenials
+21892,Saint Vincent and the Grenadines,2012,female,5-14 years,0,9355,0,Generation Z
+21893,Saint Vincent and the Grenadines,2012,female,55-74 years,0,6253,0,Boomers
+21894,Saint Vincent and the Grenadines,2012,female,75+ years,0,1881,0,Silent
+21895,Saint Vincent and the Grenadines,2012,male,5-14 years,0,9568,0,Generation Z
+21896,Saint Vincent and the Grenadines,2012,male,75+ years,0,1346,0,Silent
+21897,Saint Vincent and the Grenadines,2013,female,15-24 years,0,9748,0,Millenials
+21898,Saint Vincent and the Grenadines,2013,female,25-34 years,0,8694,0,Millenials
+21899,Saint Vincent and the Grenadines,2013,female,35-54 years,0,13666,0,Generation X
+21900,Saint Vincent and the Grenadines,2013,female,5-14 years,0,9231,0,Generation Z
+21901,Saint Vincent and the Grenadines,2013,female,55-74 years,0,6444,0,Boomers
+21902,Saint Vincent and the Grenadines,2013,female,75+ years,0,1948,0,Silent
+21903,Saint Vincent and the Grenadines,2013,male,15-24 years,0,9986,0,Millenials
+21904,Saint Vincent and the Grenadines,2013,male,25-34 years,0,8863,0,Millenials
+21905,Saint Vincent and the Grenadines,2013,male,35-54 years,0,14602,0,Generation X
+21906,Saint Vincent and the Grenadines,2013,male,5-14 years,0,9440,0,Generation Z
+21907,Saint Vincent and the Grenadines,2013,male,55-74 years,0,6377,0,Boomers
+21908,Saint Vincent and the Grenadines,2013,male,75+ years,0,1399,0,Silent
+21909,Saint Vincent and the Grenadines,2014,male,75+ years,1,1440,69.44,Silent
+21910,Saint Vincent and the Grenadines,2014,male,25-34 years,1,8817,11.34,Millenials
+21911,Saint Vincent and the Grenadines,2014,female,15-24 years,0,9636,0,Millenials
+21912,Saint Vincent and the Grenadines,2014,female,25-34 years,0,8665,0,Millenials
+21913,Saint Vincent and the Grenadines,2014,female,35-54 years,0,13751,0,Generation X
+21914,Saint Vincent and the Grenadines,2014,female,5-14 years,0,9144,0,Generation Z
+21915,Saint Vincent and the Grenadines,2014,female,55-74 years,0,6689,0,Boomers
+21916,Saint Vincent and the Grenadines,2014,female,75+ years,0,1991,0,Silent
+21917,Saint Vincent and the Grenadines,2014,male,15-24 years,0,9888,0,Millenials
+21918,Saint Vincent and the Grenadines,2014,male,35-54 years,0,14629,0,Generation X
+21919,Saint Vincent and the Grenadines,2014,male,5-14 years,0,9346,0,Generation Z
+21920,Saint Vincent and the Grenadines,2014,male,55-74 years,0,6680,0,Boomers
+21921,Saint Vincent and the Grenadines,2015,female,5-14 years,1,9071,11.02,Generation Z
+21922,Saint Vincent and the Grenadines,2015,male,15-24 years,1,9783,10.22,Millenials
+21923,Saint Vincent and the Grenadines,2015,male,35-54 years,1,14619,6.84,Generation X
+21924,Saint Vincent and the Grenadines,2015,female,15-24 years,0,9515,0,Millenials
+21925,Saint Vincent and the Grenadines,2015,female,25-34 years,0,8622,0,Millenials
+21926,Saint Vincent and the Grenadines,2015,female,35-54 years,0,13809,0,Generation X
+21927,Saint Vincent and the Grenadines,2015,female,55-74 years,0,6999,0,Boomers
+21928,Saint Vincent and the Grenadines,2015,female,75+ years,0,2012,0,Silent
+21929,Saint Vincent and the Grenadines,2015,male,25-34 years,0,8762,0,Millenials
+21930,Saint Vincent and the Grenadines,2015,male,5-14 years,0,9266,0,Generation Z
+21931,Saint Vincent and the Grenadines,2015,male,55-74 years,0,7031,0,Boomers
+21932,Saint Vincent and the Grenadines,2015,male,75+ years,0,1459,0,Silent
 21933,San Marino,1999,male,55-74 years,1,2542,39.34,Silent
 21934,San Marino,1999,male,35-54 years,1,3998,25.01,Boomers
 21935,San Marino,1999,female,15-24 years,0,1453,0,Generation X
@@ -27837,7 +27837,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 27836,Croatia,2020,male,5-14 years,0,4047680,0,Generation X
 27837,Cuba,2020,male,5-14 years,0,11300698,0,Generation X
 27838,Cyprus,2020,male,5-14 years,0,1237537,0,Generation X
-27839,Czechia,2020,male,5-14 years,3,10697858,0.028042997,Generation X
+27839,Czech Republic,2020,male,5-14 years,3,10697858,0.028042997,Generation X
 27840,Denmark,2020,male,5-14 years,0,5831404,0,Generation X
 27841,Dominican Republic,2020,male,5-14 years,0,10999664,0,Generation X
 27842,Ecuador,2020,male,5-14 years,44,17588595,0.250162108,Generation X
@@ -27898,7 +27898,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 27897,Turkey,2020,male,5-14 years,0,84135428,0,Generation X
 27898,Ukraine,2020,male,5-14 years,0,44132049,0,Generation X
 27899,United Kingdom,2020,male,5-14 years,0,67081000,0,Generation X
-27900,United States of America,2020,male,5-14 years,390,331501080,0.117646676,Generation X
+27900,United States,2020,male,5-14 years,390,331501080,0.117646676,Generation X
 27901,Uruguay,2020,male,5-14 years,0,3429086,0,Generation X
 27902,Uzbekistan,2020,male,5-14 years,0,34232050,0,Generation X
 27903,Antigua and Barbuda,2019,male,5-14 years,0,92117,0,Generation X
@@ -27919,7 +27919,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 27918,Croatia,2019,male,5-14 years,1,4065253,0.024598715,Generation X
 27919,Cuba,2019,male,5-14 years,3,11316697,0.026509502,Generation X
 27920,Cyprus,2019,male,5-14 years,0,1228836,0,Generation X
-27921,Czechia,2019,male,5-14 years,3,10671870,0.028111287,Generation X
+27921,Czech Republic,2019,male,5-14 years,3,10671870,0.028111287,Generation X
 27922,Denmark,2019,male,5-14 years,0,5814422,0,Generation X
 27923,Dominican Republic,2019,male,5-14 years,0,10881882,0,Generation X
 27924,Ecuador,2019,male,5-14 years,39,17343740,0.224864995,Generation X
@@ -27980,7 +27980,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 27979,Turkey,2019,male,5-14 years,38,83481684,0.045518967,Generation X
 27980,Ukraine,2019,male,5-14 years,14,44386203,0.031541333,Generation X
 27981,United Kingdom,2019,male,5-14 years,9,66836327,0.013465731,Generation X
-27982,United States of America,2019,male,5-14 years,339,328329953,0.103249794,Generation X
+27982,United States,2019,male,5-14 years,339,328329953,0.103249794,Generation X
 27983,Uruguay,2019,male,5-14 years,3,3428409,0.087504146,Generation X
 27984,Uzbekistan,2019,male,5-14 years,70,33580350,0.208455242,Generation X
 27985,Antigua and Barbuda,2018,male,5-14 years,0,91626,0,Generation X
@@ -28001,7 +28001,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28000,Croatia,2018,male,5-14 years,0,4087843,0,Generation X
 28001,Cuba,2018,male,5-14 years,3,11328244,0.02648248,Generation X
 28002,Cyprus,2018,male,5-14 years,0,1218831,0,Generation X
-28003,Czechia,2018,male,5-14 years,1,10629928,0.009407401,Generation X
+28003,Czech Republic,2018,male,5-14 years,1,10629928,0.009407401,Generation X
 28004,Denmark,2018,male,5-14 years,2,5793636,0.034520636,Generation X
 28005,Dominican Republic,2018,male,5-14 years,7,10765531,0.065022338,Generation X
 28006,Ecuador,2018,male,5-14 years,51,17015672,0.29972369,Generation X
@@ -28062,7 +28062,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28061,Turkey,2018,male,5-14 years,0,82809304,0,Generation X
 28062,Ukraine,2018,male,5-14 years,15,44622518,0.033615315,Generation X
 28063,United Kingdom,2018,male,5-14 years,10,66460344,0.015046567,Generation X
-28064,United States of America,2018,male,5-14 years,394,326838199,0.120548945,Generation X
+28064,United States,2018,male,5-14 years,394,326838199,0.120548945,Generation X
 28065,Uruguay,2018,male,5-14 years,3,3427042,0.08753905,Generation X
 28066,Uzbekistan,2018,male,5-14 years,75,32956100,0.227575472,Generation X
 28067,Antigua and Barbuda,2017,male,5-14 years,0,91119,0,Generation X
@@ -28083,7 +28083,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28082,Croatia,2017,male,5-14 years,0,4124531,0,Generation X
 28083,Cuba,2017,male,5-14 years,3,11336405,0.026463416,Generation X
 28084,Cyprus,2017,male,5-14 years,0,1208523,0,Generation X
-28085,Czechia,2017,male,5-14 years,1,10594438,0.009438915,Generation X
+28085,Czech Republic,2017,male,5-14 years,1,10594438,0.009438915,Generation X
 28086,Denmark,2017,male,5-14 years,2,5764980,0.034692228,Generation X
 28087,Dominican Republic,2017,male,5-14 years,4,10647244,0.037568407,Generation X
 28088,Ecuador,2017,male,5-14 years,50,16696944,0.299455996,Generation X
@@ -28144,7 +28144,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28143,Turkey,2017,male,5-14 years,0,82089826,0,Generation X
 28144,Ukraine,2017,male,5-14 years,29,44831135,0.064687187,Generation X
 28145,United Kingdom,2017,male,5-14 years,8,66058859,0.012110412,Generation X
-28146,United States of America,2017,male,5-14 years,352,325122128,0.108267008,Generation X
+28146,United States,2017,male,5-14 years,352,325122128,0.108267008,Generation X
 28147,Uruguay,2017,male,5-14 years,4,3422200,0.116883876,Generation X
 28148,Uzbekistan,2017,male,5-14 years,82,32388600,0.2531755,Generation X
 28149,Antigua and Barbuda,2020,male,15-24 years,0,92664,0,Generation X
@@ -28165,7 +28165,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28164,Croatia,2020,male,15-24 years,0,4047680,0,Generation X
 28165,Cuba,2020,male,15-24 years,0,11300698,0,Generation X
 28166,Cyprus,2020,male,15-24 years,0,1237537,0,Generation X
-28167,Czechia,2020,male,15-24 years,54,10697858,0.504773946,Generation X
+28167,Czech Republic,2020,male,15-24 years,54,10697858,0.504773946,Generation X
 28168,Denmark,2020,male,15-24 years,0,5831404,0,Generation X
 28169,Dominican Republic,2020,male,15-24 years,0,10999664,0,Generation X
 28170,Ecuador,2020,male,15-24 years,210,17588595,1.193955515,Generation X
@@ -28226,7 +28226,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28225,Turkey,2020,male,15-24 years,0,84135428,0,Generation X
 28226,Ukraine,2020,male,15-24 years,0,44132049,0,Generation X
 28227,United Kingdom,2020,male,15-24 years,0,67081000,0,Generation X
-28228,United States of America,2020,male,15-24 years,1495,331501080,0.450978923,Generation X
+28228,United States,2020,male,15-24 years,1495,331501080,0.450978923,Generation X
 28229,Uruguay,2020,male,15-24 years,0,3429086,0,Generation X
 28230,Uzbekistan,2020,male,15-24 years,0,34232050,0,Generation X
 28231,Antigua and Barbuda,2019,male,15-24 years,0,92117,0,Generation X
@@ -28247,7 +28247,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28246,Croatia,2019,male,15-24 years,24,4065253,0.59036916,Generation X
 28247,Cuba,2019,male,15-24 years,59,11316697,0.521353536,Generation X
 28248,Cyprus,2019,male,15-24 years,0,1228836,0,Generation X
-28249,Czechia,2019,male,15-24 years,61,10671870,0.571596168,Generation X
+28249,Czech Republic,2019,male,15-24 years,61,10671870,0.571596168,Generation X
 28250,Denmark,2019,male,15-24 years,0,5814422,0,Generation X
 28251,Dominican Republic,2019,male,15-24 years,0,10881882,0,Generation X
 28252,Ecuador,2019,male,15-24 years,262,17343740,1.510631502,Generation X
@@ -28308,7 +28308,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28307,Turkey,2019,male,15-24 years,498,83481684,0.596538038,Generation X
 28308,Ukraine,2019,male,15-24 years,335,44386203,0.754739035,Generation X
 28309,United Kingdom,2019,male,15-24 years,458,66836327,0.685256088,Generation X
-28310,United States of America,2019,male,15-24 years,1495,328329953,0.455334637,Generation X
+28310,United States,2019,male,15-24 years,1495,328329953,0.455334637,Generation X
 28311,Uruguay,2019,male,15-24 years,89,3428409,2.595956317,Generation X
 28312,Uzbekistan,2019,male,15-24 years,332,33580350,0.988673436,Generation X
 28313,Antigua and Barbuda,2018,male,15-24 years,0,91626,0,Generation X
@@ -28329,7 +28329,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28328,Croatia,2018,male,15-24 years,0,4087843,0,Generation X
 28329,Cuba,2018,male,15-24 years,51,11328244,0.450202167,Generation X
 28330,Cyprus,2018,male,15-24 years,7,1218831,0.574320804,Generation X
-28331,Czechia,2018,male,15-24 years,83,10629928,0.78081432,Generation X
+28331,Czech Republic,2018,male,15-24 years,83,10629928,0.78081432,Generation X
 28332,Denmark,2018,male,15-24 years,22,5793636,0.379726997,Generation X
 28333,Dominican Republic,2018,male,15-24 years,85,10765531,0.789556967,Generation X
 28334,Ecuador,2018,male,15-24 years,258,17015672,1.516249255,Generation X
@@ -28390,7 +28390,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28389,Turkey,2018,male,15-24 years,0,82809304,0,Generation X
 28390,Ukraine,2018,male,15-24 years,370,44622518,0.829177771,Generation X
 28391,United Kingdom,2018,male,15-24 years,431,66460344,0.648507025,Generation X
-28392,United States of America,2018,male,15-24 years,1495,326838199,0.457412874,Generation X
+28392,United States,2018,male,15-24 years,1495,326838199,0.457412874,Generation X
 28393,Uruguay,2018,male,15-24 years,71,3427042,2.07175751,Generation X
 28394,Uzbekistan,2018,male,15-24 years,321,32956100,0.974023019,Generation X
 28395,Antigua and Barbuda,2017,male,15-24 years,0,91119,0,Generation X
@@ -28411,7 +28411,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28410,Croatia,2017,male,15-24 years,22,4124531,0.533393979,Generation X
 28411,Cuba,2017,male,15-24 years,54,11336405,0.476341486,Generation X
 28412,Cyprus,2017,male,15-24 years,6,1208523,0.496473795,Generation X
-28413,Czechia,2017,male,15-24 years,77,10594438,0.726796457,Generation X
+28413,Czech Republic,2017,male,15-24 years,77,10594438,0.726796457,Generation X
 28414,Denmark,2017,male,15-24 years,28,5764980,0.485691191,Generation X
 28415,Dominican Republic,2017,male,15-24 years,66,10647244,0.619878722,Generation X
 28416,Ecuador,2017,male,15-24 years,247,16696944,1.479312622,Generation X
@@ -28472,7 +28472,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28471,Turkey,2017,male,15-24 years,0,82089826,0,Generation X
 28472,Ukraine,2017,male,15-24 years,384,44831135,0.856547576,Generation X
 28473,United Kingdom,2017,male,15-24 years,320,66058859,0.484416481,Generation X
-28474,United States of America,2017,male,15-24 years,1495,325122128,0.459827207,Generation X
+28474,United States,2017,male,15-24 years,1495,325122128,0.459827207,Generation X
 28475,Uruguay,2017,male,15-24 years,91,3422200,2.659108176,Generation X
 28476,Uzbekistan,2017,male,15-24 years,413,32388600,1.275140018,Generation X
 28477,Antigua and Barbuda,2020,male,25-34 years,0,92664,0,Boomers
@@ -28493,7 +28493,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28492,Croatia,2020,male,25-34 years,0,4047680,0,Boomers
 28493,Cuba,2020,male,25-34 years,0,11300698,0,Boomers
 28494,Cyprus,2020,male,25-34 years,0,1237537,0,Boomers
-28495,Czechia,2020,male,25-34 years,129,10697858,1.205848872,Boomers
+28495,Czech Republic,2020,male,25-34 years,129,10697858,1.205848872,Boomers
 28496,Denmark,2020,male,25-34 years,0,5831404,0,Boomers
 28497,Dominican Republic,2020,male,25-34 years,0,10999664,0,Boomers
 28498,Ecuador,2020,male,25-34 years,177,17588595,1.006333934,Boomers
@@ -28554,7 +28554,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28553,Turkey,2020,male,25-34 years,0,84135428,0,Boomers
 28554,Ukraine,2020,male,25-34 years,0,44132049,0,Boomers
 28555,United Kingdom,2020,male,25-34 years,0,67081000,0,Boomers
-28556,United States of America,2020,male,25-34 years,1495,331501080,0.450978923,Boomers
+28556,United States,2020,male,25-34 years,1495,331501080,0.450978923,Boomers
 28557,Uruguay,2020,male,25-34 years,0,3429086,0,Boomers
 28558,Uzbekistan,2020,male,25-34 years,0,34232050,0,Boomers
 28559,Antigua and Barbuda,2019,male,25-34 years,0,92117,0,Boomers
@@ -28575,7 +28575,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28574,Croatia,2019,male,25-34 years,35,4065253,0.860955025,Boomers
 28575,Cuba,2019,male,25-34 years,75,11316697,0.662737546,Boomers
 28576,Cyprus,2019,male,25-34 years,0,1228836,0,Boomers
-28577,Czechia,2019,male,25-34 years,119,10671870,1.11508105,Boomers
+28577,Czech Republic,2019,male,25-34 years,119,10671870,1.11508105,Boomers
 28578,Denmark,2019,male,25-34 years,0,5814422,0,Boomers
 28579,Dominican Republic,2019,male,25-34 years,0,10881882,0,Boomers
 28580,Ecuador,2019,male,25-34 years,219,17343740,1.262703431,Boomers
@@ -28636,7 +28636,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28635,Turkey,2019,male,25-34 years,571,83481684,0.683982369,Boomers
 28636,Ukraine,2019,male,25-34 years,873,44386203,1.966827395,Boomers
 28637,United Kingdom,2019,male,25-34 years,800,66836327,1.196953866,Boomers
-28638,United States of America,2019,male,25-34 years,1495,328329953,0.455334637,Boomers
+28638,United States,2019,male,25-34 years,1495,328329953,0.455334637,Boomers
 28639,Uruguay,2019,male,25-34 years,97,3428409,2.829300705,Boomers
 28640,Uzbekistan,2019,male,25-34 years,337,33580350,1.003563096,Boomers
 28641,Antigua and Barbuda,2018,male,25-34 years,0,91626,0,Boomers
@@ -28657,7 +28657,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28656,Croatia,2018,male,25-34 years,0,4087843,0,Boomers
 28657,Cuba,2018,male,25-34 years,87,11328244,0.767991932,Boomers
 28658,Cyprus,2018,male,25-34 years,7,1218831,0.574320804,Boomers
-28659,Czechia,2018,male,25-34 years,138,10629928,1.298221399,Boomers
+28659,Czech Republic,2018,male,25-34 years,138,10629928,1.298221399,Boomers
 28660,Denmark,2018,male,25-34 years,41,5793636,0.70767304,Boomers
 28661,Dominican Republic,2018,male,25-34 years,120,10765531,1.114668659,Boomers
 28662,Ecuador,2018,male,25-34 years,206,17015672,1.21064863,Boomers
@@ -28718,7 +28718,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28717,Turkey,2018,male,25-34 years,0,82809304,0,Boomers
 28718,Ukraine,2018,male,25-34 years,876,44622518,1.963134398,Boomers
 28719,United Kingdom,2018,male,25-34 years,678,66460344,1.020157223,Boomers
-28720,United States of America,2018,male,25-34 years,1495,326838199,0.457412874,Boomers
+28720,United States,2018,male,25-34 years,1495,326838199,0.457412874,Boomers
 28721,Uruguay,2018,male,25-34 years,86,3427042,2.509452758,Boomers
 28722,Uzbekistan,2018,male,25-34 years,333,32956100,1.010435094,Boomers
 28723,Antigua and Barbuda,2017,male,25-34 years,0,91119,0,Boomers
@@ -28739,7 +28739,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28738,Croatia,2017,male,25-34 years,45,4124531,1.091033138,Boomers
 28739,Cuba,2017,male,25-34 years,108,11336405,0.952682971,Boomers
 28740,Cyprus,2017,male,25-34 years,3,1208523,0.248236897,Boomers
-28741,Czechia,2017,male,25-34 years,172,10594438,1.623493384,Boomers
+28741,Czech Republic,2017,male,25-34 years,172,10594438,1.623493384,Boomers
 28742,Denmark,2017,male,25-34 years,35,5764980,0.607113988,Boomers
 28743,Dominican Republic,2017,male,25-34 years,105,10647244,0.986170694,Boomers
 28744,Ecuador,2017,male,25-34 years,236,16696944,1.413432302,Boomers
@@ -28800,7 +28800,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28799,Turkey,2017,male,25-34 years,0,82089826,0,Boomers
 28800,Ukraine,2017,male,25-34 years,1495,44831135,3.334736004,Boomers
 28801,United Kingdom,2017,male,25-34 years,624,66058859,0.944612137,Boomers
-28802,United States of America,2017,male,25-34 years,1495,325122128,0.459827207,Boomers
+28802,United States,2017,male,25-34 years,1495,325122128,0.459827207,Boomers
 28803,Uruguay,2017,male,25-34 years,96,3422200,2.805213021,Boomers
 28804,Uzbekistan,2017,male,25-34 years,364,32388600,1.12385222,Boomers
 28805,Antigua and Barbuda,2020,male,35-54 years,0,92664,0,Silent
@@ -28821,7 +28821,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28820,Croatia,2020,male,35-54 years,0,4047680,0,Silent
 28821,Cuba,2020,male,35-54 years,0,11300698,0,Silent
 28822,Cyprus,2020,male,35-54 years,0,1237537,0,Silent
-28823,Czechia,2020,male,35-54 years,341,10697858,3.187553994,Silent
+28823,Czech Republic,2020,male,35-54 years,341,10697858,3.187553994,Silent
 28824,Denmark,2020,male,35-54 years,0,5831404,0,Silent
 28825,Dominican Republic,2020,male,35-54 years,0,10999664,0,Silent
 28826,Ecuador,2020,male,35-54 years,224,17588595,1.273552549,Silent
@@ -28882,7 +28882,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28881,Turkey,2020,male,35-54 years,0,84135428,0,Silent
 28882,Ukraine,2020,male,35-54 years,0,44132049,0,Silent
 28883,United Kingdom,2020,male,35-54 years,0,67081000,0,Silent
-28884,United States of America,2020,male,35-54 years,1495,331501080,0.450978923,Silent
+28884,United States,2020,male,35-54 years,1495,331501080,0.450978923,Silent
 28885,Uruguay,2020,male,35-54 years,0,3429086,0,Silent
 28886,Uzbekistan,2020,male,35-54 years,0,34232050,0,Silent
 28887,Antigua and Barbuda,2019,male,35-54 years,0,92117,0,Silent
@@ -28903,7 +28903,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28902,Croatia,2019,male,35-54 years,140,4065253,3.443820102,Silent
 28903,Cuba,2019,male,35-54 years,366,11316697,3.234159225,Silent
 28904,Cyprus,2019,male,35-54 years,0,1228836,0,Silent
-28905,Czechia,2019,male,35-54 years,308,10671870,2.886092128,Silent
+28905,Czech Republic,2019,male,35-54 years,308,10671870,2.886092128,Silent
 28906,Denmark,2019,male,35-54 years,0,5814422,0,Silent
 28907,Dominican Republic,2019,male,35-54 years,0,10881882,0,Silent
 28908,Ecuador,2019,male,35-54 years,243,17343740,1.401081889,Silent
@@ -28964,7 +28964,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28963,Turkey,2019,male,35-54 years,898,83481684,1.075685057,Silent
 28964,Ukraine,2019,male,35-54 years,1495,44386203,3.368163751,Silent
 28965,United Kingdom,2019,male,35-54 years,1495,66836327,2.236807537,Silent
-28966,United States of America,2019,male,35-54 years,1495,328329953,0.455334637,Silent
+28966,United States,2019,male,35-54 years,1495,328329953,0.455334637,Silent
 28967,Uruguay,2019,male,35-54 years,185,3428409,5.396088973,Silent
 28968,Uzbekistan,2019,male,35-54 years,526,33580350,1.56639225,Silent
 28969,Antigua and Barbuda,2018,male,35-54 years,0,91626,0,Silent
@@ -28985,7 +28985,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 28984,Croatia,2018,male,35-54 years,0,4087843,0,Silent
 28985,Cuba,2018,male,35-54 years,364,11328244,3.213207625,Silent
 28986,Cyprus,2018,male,35-54 years,10,1218831,0.820458292,Silent
-28987,Czechia,2018,male,35-54 years,394,10629928,3.706516168,Silent
+28987,Czech Republic,2018,male,35-54 years,394,10629928,3.706516168,Silent
 28988,Denmark,2018,male,35-54 years,143,5793636,2.468225481,Silent
 28989,Dominican Republic,2018,male,35-54 years,198,10765531,1.839203287,Silent
 28990,Ecuador,2018,male,35-54 years,244,17015672,1.433972164,Silent
@@ -29046,7 +29046,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29045,Turkey,2018,male,35-54 years,0,82809304,0,Silent
 29046,Ukraine,2018,male,35-54 years,1495,44622518,3.350326398,Silent
 29047,United Kingdom,2018,male,35-54 years,1495,66460344,2.249461724,Silent
-29048,United States of America,2018,male,35-54 years,1495,326838199,0.457412874,Silent
+29048,United States,2018,male,35-54 years,1495,326838199,0.457412874,Silent
 29049,Uruguay,2018,male,35-54 years,171,3427042,4.989725834,Silent
 29050,Uzbekistan,2018,male,35-54 years,550,32956100,1.668886792,Silent
 29051,Antigua and Barbuda,2017,male,35-54 years,0,91119,0,Silent
@@ -29067,7 +29067,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29066,Croatia,2017,male,35-54 years,131,4124531,3.176118691,Silent
 29067,Cuba,2017,male,35-54 years,365,11336405,3.219715598,Silent
 29068,Cyprus,2017,male,35-54 years,13,1208523,1.075693222,Silent
-29069,Czechia,2017,male,35-54 years,404,10594438,3.813321669,Silent
+29069,Czech Republic,2017,male,35-54 years,404,10594438,3.813321669,Silent
 29070,Denmark,2017,male,35-54 years,143,5764980,2.480494295,Silent
 29071,Dominican Republic,2017,male,35-54 years,220,10647244,2.066262406,Silent
 29072,Ecuador,2017,male,35-54 years,233,16696944,1.395464943,Silent
@@ -29128,7 +29128,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29127,Turkey,2017,male,35-54 years,0,82089826,0,Silent
 29128,Ukraine,2017,male,35-54 years,1495,44831135,3.334736004,Silent
 29129,United Kingdom,2017,male,35-54 years,1495,66058859,2.263133246,Silent
-29130,United States of America,2017,male,35-54 years,1495,325122128,0.459827207,Silent
+29130,United States,2017,male,35-54 years,1495,325122128,0.459827207,Silent
 29131,Uruguay,2017,male,35-54 years,164,3422200,4.792238911,Silent
 29132,Uzbekistan,2017,male,35-54 years,601,32388600,1.855591165,Silent
 29133,Antigua and Barbuda,2020,male,55-74 years,0,92664,0,G.I. Generation
@@ -29149,7 +29149,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29148,Croatia,2020,male,55-74 years,0,4047680,0,G.I. Generation
 29149,Cuba,2020,male,55-74 years,0,11300698,0,G.I. Generation
 29150,Cyprus,2020,male,55-74 years,0,1237537,0,G.I. Generation
-29151,Czechia,2020,male,55-74 years,312,10697858,2.91647169,G.I. Generation
+29151,Czech Republic,2020,male,55-74 years,312,10697858,2.91647169,G.I. Generation
 29152,Denmark,2020,male,55-74 years,0,5831404,0,G.I. Generation
 29153,Dominican Republic,2020,male,55-74 years,0,10999664,0,G.I. Generation
 29154,Ecuador,2020,male,55-74 years,154,17588595,0.875567378,G.I. Generation
@@ -29210,7 +29210,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29209,Turkey,2020,male,55-74 years,0,84135428,0,G.I. Generation
 29210,Ukraine,2020,male,55-74 years,0,44132049,0,G.I. Generation
 29211,United Kingdom,2020,male,55-74 years,0,67081000,0,G.I. Generation
-29212,United States of America,2020,male,55-74 years,1495,331501080,0.450978923,G.I. Generation
+29212,United States,2020,male,55-74 years,1495,331501080,0.450978923,G.I. Generation
 29213,Uruguay,2020,male,55-74 years,0,3429086,0,G.I. Generation
 29214,Uzbekistan,2020,male,55-74 years,0,34232050,0,G.I. Generation
 29215,Antigua and Barbuda,2019,male,55-74 years,0,92117,0,G.I. Generation
@@ -29231,7 +29231,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29230,Croatia,2019,male,55-74 years,156,4065253,3.837399542,G.I. Generation
 29231,Cuba,2019,male,55-74 years,438,11316697,3.870387269,G.I. Generation
 29232,Cyprus,2019,male,55-74 years,0,1228836,0,G.I. Generation
-29233,Czechia,2019,male,55-74 years,327,10671870,3.064130279,G.I. Generation
+29233,Czech Republic,2019,male,55-74 years,327,10671870,3.064130279,G.I. Generation
 29234,Denmark,2019,male,55-74 years,0,5814422,0,G.I. Generation
 29235,Dominican Republic,2019,male,55-74 years,0,10881882,0,G.I. Generation
 29236,Ecuador,2019,male,55-74 years,146,17343740,0.841802287,G.I. Generation
@@ -29292,7 +29292,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29291,Turkey,2019,male,55-74 years,487,83481684,0.583361495,G.I. Generation
 29292,Ukraine,2019,male,55-74 years,1495,44386203,3.368163751,G.I. Generation
 29293,United Kingdom,2019,male,55-74 years,1495,66836327,2.236807537,G.I. Generation
-29294,United States of America,2019,male,55-74 years,1495,328329953,0.455334637,G.I. Generation
+29294,United States,2019,male,55-74 years,1495,328329953,0.455334637,G.I. Generation
 29295,Uruguay,2019,male,55-74 years,134,3428409,3.908518499,G.I. Generation
 29296,Uzbekistan,2019,male,55-74 years,169,33580350,0.503270514,G.I. Generation
 29297,Antigua and Barbuda,2018,male,55-74 years,0,91626,0,G.I. Generation
@@ -29313,7 +29313,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29312,Croatia,2018,male,55-74 years,0,4087843,0,G.I. Generation
 29313,Cuba,2018,male,55-74 years,433,11328244,3.822304675,G.I. Generation
 29314,Cyprus,2018,male,55-74 years,9,1218831,0.738412462,G.I. Generation
-29315,Czechia,2018,male,55-74 years,341,10629928,3.207923892,G.I. Generation
+29315,Czech Republic,2018,male,55-74 years,341,10629928,3.207923892,G.I. Generation
 29316,Denmark,2018,male,55-74 years,148,5793636,2.554527071,G.I. Generation
 29317,Dominican Republic,2018,male,55-74 years,128,10765531,1.188979903,G.I. Generation
 29318,Ecuador,2018,male,55-74 years,152,17015672,0.893294135,G.I. Generation
@@ -29374,7 +29374,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29373,Turkey,2018,male,55-74 years,0,82809304,0,G.I. Generation
 29374,Ukraine,2018,male,55-74 years,1495,44622518,3.350326398,G.I. Generation
 29375,United Kingdom,2018,male,55-74 years,860,66460344,1.294004738,G.I. Generation
-29376,United States of America,2018,male,55-74 years,1495,326838199,0.457412874,G.I. Generation
+29376,United States,2018,male,55-74 years,1495,326838199,0.457412874,G.I. Generation
 29377,Uruguay,2018,male,55-74 years,145,3427042,4.231054069,G.I. Generation
 29378,Uzbekistan,2018,male,55-74 years,178,32956100,0.540112453,G.I. Generation
 29379,Antigua and Barbuda,2017,male,55-74 years,0,91119,0,G.I. Generation
@@ -29395,7 +29395,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29394,Croatia,2017,male,55-74 years,182,4124531,4.412622914,G.I. Generation
 29395,Cuba,2017,male,55-74 years,445,11336405,3.925406688,G.I. Generation
 29396,Cyprus,2017,male,55-74 years,5,1208523,0.413728162,G.I. Generation
-29397,Czechia,2017,male,55-74 years,325,10594438,3.067647383,G.I. Generation
+29397,Czech Republic,2017,male,55-74 years,325,10594438,3.067647383,G.I. Generation
 29398,Denmark,2017,male,55-74 years,131,5764980,2.272340927,G.I. Generation
 29399,Dominican Republic,2017,male,55-74 years,113,10647244,1.061307508,G.I. Generation
 29400,Ecuador,2017,male,55-74 years,142,16696944,0.850455029,G.I. Generation
@@ -29456,7 +29456,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29455,Turkey,2017,male,55-74 years,0,82089826,0,G.I. Generation
 29456,Ukraine,2017,male,55-74 years,1495,44831135,3.334736004,G.I. Generation
 29457,United Kingdom,2017,male,55-74 years,817,66058859,1.236775827,G.I. Generation
-29458,United States of America,2017,male,55-74 years,1495,325122128,0.459827207,G.I. Generation
+29458,United States,2017,male,55-74 years,1495,325122128,0.459827207,G.I. Generation
 29459,Uruguay,2017,male,55-74 years,128,3422200,3.740284028,G.I. Generation
 29460,Uzbekistan,2017,male,55-74 years,138,32388600,0.426075841,G.I. Generation
 29461,Antigua and Barbuda,2020,male,75+ years,0,92664,0,G.I. Generation
@@ -29477,7 +29477,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29476,Croatia,2020,male,75+ years,0,4047680,0,G.I. Generation
 29477,Cuba,2020,male,75+ years,0,11300698,0,G.I. Generation
 29478,Cyprus,2020,male,75+ years,0,1237537,0,G.I. Generation
-29479,Czechia,2020,male,75+ years,170,10697858,1.589103164,G.I. Generation
+29479,Czech Republic,2020,male,75+ years,170,10697858,1.589103164,G.I. Generation
 29480,Denmark,2020,male,75+ years,0,5831404,0,G.I. Generation
 29481,Dominican Republic,2020,male,75+ years,0,10999664,0,G.I. Generation
 29482,Ecuador,2020,male,75+ years,43,17588595,0.244476605,G.I. Generation
@@ -29538,7 +29538,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29537,Turkey,2020,male,75+ years,0,84135428,0,G.I. Generation
 29538,Ukraine,2020,male,75+ years,0,44132049,0,G.I. Generation
 29539,United Kingdom,2020,male,75+ years,0,67081000,0,G.I. Generation
-29540,United States of America,2020,male,75+ years,1495,331501080,0.450978923,G.I. Generation
+29540,United States,2020,male,75+ years,1495,331501080,0.450978923,G.I. Generation
 29541,Uruguay,2020,male,75+ years,0,3429086,0,G.I. Generation
 29542,Uzbekistan,2020,male,75+ years,0,34232050,0,G.I. Generation
 29543,Antigua and Barbuda,2019,male,75+ years,0,92117,0,G.I. Generation
@@ -29559,7 +29559,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29558,Croatia,2019,male,75+ years,106,4065253,2.607463791,G.I. Generation
 29559,Cuba,2019,male,75+ years,265,11316697,2.341672663,G.I. Generation
 29560,Cyprus,2019,male,75+ years,0,1228836,0,G.I. Generation
-29561,Czechia,2019,male,75+ years,131,10671870,1.227526197,G.I. Generation
+29561,Czech Republic,2019,male,75+ years,131,10671870,1.227526197,G.I. Generation
 29562,Denmark,2019,male,75+ years,0,5814422,0,G.I. Generation
 29563,Dominican Republic,2019,male,75+ years,0,10881882,0,G.I. Generation
 29564,Ecuador,2019,male,75+ years,39,17343740,0.224864995,G.I. Generation
@@ -29620,7 +29620,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29619,Turkey,2019,male,75+ years,134,83481684,0.160514251,G.I. Generation
 29620,Ukraine,2019,male,75+ years,527,44386203,1.187305884,G.I. Generation
 29621,United Kingdom,2019,male,75+ years,287,66836327,0.429407199,G.I. Generation
-29622,United States of America,2019,male,75+ years,1495,328329953,0.455334637,G.I. Generation
+29622,United States,2019,male,75+ years,1495,328329953,0.455334637,G.I. Generation
 29623,Uruguay,2019,male,75+ years,66,3428409,1.925091201,G.I. Generation
 29624,Uzbekistan,2019,male,75+ years,12,33580350,0.035735184,G.I. Generation
 29625,Antigua and Barbuda,2018,male,75+ years,0,91626,0,G.I. Generation
@@ -29641,7 +29641,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29640,Croatia,2018,male,75+ years,0,4087843,0,G.I. Generation
 29641,Cuba,2018,male,75+ years,250,11328244,2.206873369,G.I. Generation
 29642,Cyprus,2018,male,75+ years,1,1218831,0.082045829,G.I. Generation
-29643,Czechia,2018,male,75+ years,145,10629928,1.364073209,G.I. Generation
+29643,Czech Republic,2018,male,75+ years,145,10629928,1.364073209,G.I. Generation
 29644,Denmark,2018,male,75+ years,70,5793636,1.208222263,G.I. Generation
 29645,Dominican Republic,2018,male,75+ years,37,10765531,0.343689503,G.I. Generation
 29646,Ecuador,2018,male,75+ years,44,17015672,0.258585144,G.I. Generation
@@ -29702,7 +29702,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29701,Turkey,2018,male,75+ years,0,82809304,0,G.I. Generation
 29702,Ukraine,2018,male,75+ years,518,44622518,1.160848879,G.I. Generation
 29703,United Kingdom,2018,male,75+ years,320,66460344,0.481490135,G.I. Generation
-29704,United States of America,2018,male,75+ years,1495,326838199,0.457412874,G.I. Generation
+29704,United States,2018,male,75+ years,1495,326838199,0.457412874,G.I. Generation
 29705,Uruguay,2018,male,75+ years,68,3427042,1.98421846,G.I. Generation
 29706,Uzbekistan,2018,male,75+ years,10,32956100,0.030343396,G.I. Generation
 29707,Antigua and Barbuda,2017,male,75+ years,0,91119,0,G.I. Generation
@@ -29723,7 +29723,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29722,Croatia,2017,male,75+ years,95,4124531,2.30329218,G.I. Generation
 29723,Cuba,2017,male,75+ years,253,11336405,2.231748072,G.I. Generation
 29724,Cyprus,2017,male,75+ years,2,1208523,0.165491265,G.I. Generation
-29725,Czechia,2017,male,75+ years,129,10594438,1.217620038,G.I. Generation
+29725,Czech Republic,2017,male,75+ years,129,10594438,1.217620038,G.I. Generation
 29726,Denmark,2017,male,75+ years,79,5764980,1.370343002,G.I. Generation
 29727,Dominican Republic,2017,male,75+ years,23,10647244,0.216018342,G.I. Generation
 29728,Ecuador,2017,male,75+ years,35,16696944,0.209619197,G.I. Generation
@@ -29784,7 +29784,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29783,Turkey,2017,male,75+ years,0,82089826,0,G.I. Generation
 29784,Ukraine,2017,male,75+ years,552,44831135,1.23128714,G.I. Generation
 29785,United Kingdom,2017,male,75+ years,234,66058859,0.354229552,G.I. Generation
-29786,United States of America,2017,male,75+ years,1495,325122128,0.459827207,G.I. Generation
+29786,United States,2017,male,75+ years,1495,325122128,0.459827207,G.I. Generation
 29787,Uruguay,2017,male,75+ years,71,3422200,2.074688797,G.I. Generation
 29788,Uzbekistan,2017,male,75+ years,18,32388600,0.05557511,G.I. Generation
 29789,Antigua and Barbuda,2020,female,5-14 years,0,92664,0,Generation X
@@ -29805,7 +29805,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29804,Croatia,2020,female,5-14 years,0,4047680,0,Generation X
 29805,Cuba,2020,female,5-14 years,0,11300698,0,Generation X
 29806,Cyprus,2020,female,5-14 years,0,1237537,0,Generation X
-29807,Czechia,2020,female,5-14 years,1,10697858,0.009347666,Generation X
+29807,Czech Republic,2020,female,5-14 years,1,10697858,0.009347666,Generation X
 29808,Denmark,2020,female,5-14 years,0,5831404,0,Generation X
 29809,Dominican Republic,2020,female,5-14 years,0,10999664,0,Generation X
 29810,Ecuador,2020,female,5-14 years,24,17588595,0.136452059,Generation X
@@ -29866,7 +29866,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29865,Turkey,2020,female,5-14 years,0,84135428,0,Generation X
 29866,Ukraine,2020,female,5-14 years,0,44132049,0,Generation X
 29867,United Kingdom,2020,female,5-14 years,0,67081000,0,Generation X
-29868,United States of America,2020,female,5-14 years,211,331501080,0.063649868,Generation X
+29868,United States,2020,female,5-14 years,211,331501080,0.063649868,Generation X
 29869,Uruguay,2020,female,5-14 years,0,3429086,0,Generation X
 29870,Uzbekistan,2020,female,5-14 years,0,34232050,0,Generation X
 29871,Antigua and Barbuda,2019,female,5-14 years,0,92117,0,Generation X
@@ -29887,7 +29887,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29886,Croatia,2019,female,5-14 years,1,4065253,0.024598715,Generation X
 29887,Cuba,2019,female,5-14 years,0,11316697,0,Generation X
 29888,Cyprus,2019,female,5-14 years,0,1228836,0,Generation X
-29889,Czechia,2019,female,5-14 years,4,10671870,0.037481716,Generation X
+29889,Czech Republic,2019,female,5-14 years,4,10671870,0.037481716,Generation X
 29890,Denmark,2019,female,5-14 years,0,5814422,0,Generation X
 29891,Dominican Republic,2019,female,5-14 years,0,10881882,0,Generation X
 29892,Ecuador,2019,female,5-14 years,24,17343740,0.138378458,Generation X
@@ -29948,7 +29948,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29947,Turkey,2019,female,5-14 years,25,83481684,0.029946689,Generation X
 29948,Ukraine,2019,female,5-14 years,8,44386203,0.018023619,Generation X
 29949,United Kingdom,2019,female,5-14 years,7,66836327,0.010473346,Generation X
-29950,United States of America,2019,female,5-14 years,207,328329953,0.063046334,Generation X
+29950,United States,2019,female,5-14 years,207,328329953,0.063046334,Generation X
 29951,Uruguay,2019,female,5-14 years,2,3428409,0.058336097,Generation X
 29952,Uzbekistan,2019,female,5-14 years,55,33580350,0.163786262,Generation X
 29953,Antigua and Barbuda,2018,female,5-14 years,0,91626,0,Generation X
@@ -29969,7 +29969,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 29968,Croatia,2018,female,5-14 years,0,4087843,0,Generation X
 29969,Cuba,2018,female,5-14 years,0,11328244,0,Generation X
 29970,Cyprus,2018,female,5-14 years,0,1218831,0,Generation X
-29971,Czechia,2018,female,5-14 years,3,10629928,0.028222204,Generation X
+29971,Czech Republic,2018,female,5-14 years,3,10629928,0.028222204,Generation X
 29972,Denmark,2018,female,5-14 years,0,5793636,0,Generation X
 29973,Dominican Republic,2018,female,5-14 years,9,10765531,0.083600149,Generation X
 29974,Ecuador,2018,female,5-14 years,39,17015672,0.229200469,Generation X
@@ -30030,7 +30030,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30029,Turkey,2018,female,5-14 years,0,82809304,0,Generation X
 30030,Ukraine,2018,female,5-14 years,11,44622518,0.024651231,Generation X
 30031,United Kingdom,2018,female,5-14 years,6,66460344,0.00902794,Generation X
-30032,United States of America,2018,female,5-14 years,211,326838199,0.064557937,Generation X
+30032,United States,2018,female,5-14 years,211,326838199,0.064557937,Generation X
 30033,Uruguay,2018,female,5-14 years,4,3427042,0.116718733,Generation X
 30034,Uzbekistan,2018,female,5-14 years,48,32956100,0.145648302,Generation X
 30035,Antigua and Barbuda,2017,female,5-14 years,0,91119,0,Generation X
@@ -30051,7 +30051,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30050,Croatia,2017,female,5-14 years,0,4124531,0,Generation X
 30051,Cuba,2017,female,5-14 years,3,11336405,0.026463416,Generation X
 30052,Cyprus,2017,female,5-14 years,0,1208523,0,Generation X
-30053,Czechia,2017,female,5-14 years,1,10594438,0.009438915,Generation X
+30053,Czech Republic,2017,female,5-14 years,1,10594438,0.009438915,Generation X
 30054,Denmark,2017,female,5-14 years,1,5764980,0.017346114,Generation X
 30055,Dominican Republic,2017,female,5-14 years,11,10647244,0.10331312,Generation X
 30056,Ecuador,2017,female,5-14 years,30,16696944,0.179673598,Generation X
@@ -30112,7 +30112,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30111,Turkey,2017,female,5-14 years,0,82089826,0,Generation X
 30112,Ukraine,2017,female,5-14 years,10,44831135,0.022305926,Generation X
 30113,United Kingdom,2017,female,5-14 years,8,66058859,0.012110412,Generation X
-30114,United States of America,2017,female,5-14 years,170,325122128,0.052288044,Generation X
+30114,United States,2017,female,5-14 years,170,325122128,0.052288044,Generation X
 30115,Uruguay,2017,female,5-14 years,1,3422200,0.029220969,Generation X
 30116,Uzbekistan,2017,female,5-14 years,36,32388600,0.11115022,Generation X
 30117,Antigua and Barbuda,2020,female,15-24 years,0,92664,0,Generation X
@@ -30133,7 +30133,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30132,Croatia,2020,female,15-24 years,0,4047680,0,Generation X
 30133,Cuba,2020,female,15-24 years,0,11300698,0,Generation X
 30134,Cyprus,2020,female,15-24 years,0,1237537,0,Generation X
-30135,Czechia,2020,female,15-24 years,13,10697858,0.121519654,Generation X
+30135,Czech Republic,2020,female,15-24 years,13,10697858,0.121519654,Generation X
 30136,Denmark,2020,female,15-24 years,0,5831404,0,Generation X
 30137,Dominican Republic,2020,female,15-24 years,0,10999664,0,Generation X
 30138,Ecuador,2020,female,15-24 years,78,17588595,0.443469191,Generation X
@@ -30194,7 +30194,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30193,Turkey,2020,female,15-24 years,0,84135428,0,Generation X
 30194,Ukraine,2020,female,15-24 years,0,44132049,0,Generation X
 30195,United Kingdom,2020,female,15-24 years,0,67081000,0,Generation X
-30196,United States of America,2020,female,15-24 years,1495,331501080,0.450978923,Generation X
+30196,United States,2020,female,15-24 years,1495,331501080,0.450978923,Generation X
 30197,Uruguay,2020,female,15-24 years,0,3429086,0,Generation X
 30198,Uzbekistan,2020,female,15-24 years,0,34232050,0,Generation X
 30199,Antigua and Barbuda,2019,female,15-24 years,0,92117,0,Generation X
@@ -30215,7 +30215,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30214,Croatia,2019,female,15-24 years,4,4065253,0.09839486,Generation X
 30215,Cuba,2019,female,15-24 years,7,11316697,0.061855504,Generation X
 30216,Cyprus,2019,female,15-24 years,0,1228836,0,Generation X
-30217,Czechia,2019,female,15-24 years,17,10671870,0.159297293,Generation X
+30217,Czech Republic,2019,female,15-24 years,17,10671870,0.159297293,Generation X
 30218,Denmark,2019,female,15-24 years,0,5814422,0,Generation X
 30219,Dominican Republic,2019,female,15-24 years,0,10881882,0,Generation X
 30220,Ecuador,2019,female,15-24 years,104,17343740,0.599639985,Generation X
@@ -30276,7 +30276,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30275,Turkey,2019,female,15-24 years,232,83481684,0.277905271,Generation X
 30276,Ukraine,2019,female,15-24 years,66,44386203,0.148694855,Generation X
 30277,United Kingdom,2019,female,15-24 years,156,66836327,0.233406004,Generation X
-30278,United States of America,2019,female,15-24 years,1495,328329953,0.455334637,Generation X
+30278,United States,2019,female,15-24 years,1495,328329953,0.455334637,Generation X
 30279,Uruguay,2019,female,15-24 years,17,3428409,0.495856825,Generation X
 30280,Uzbekistan,2019,female,15-24 years,456,33580350,1.357937008,Generation X
 30281,Antigua and Barbuda,2018,female,15-24 years,0,91626,0,Generation X
@@ -30297,7 +30297,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30296,Croatia,2018,female,15-24 years,0,4087843,0,Generation X
 30297,Cuba,2018,female,15-24 years,13,11328244,0.114757415,Generation X
 30298,Cyprus,2018,female,15-24 years,0,1218831,0,Generation X
-30299,Czechia,2018,female,15-24 years,24,10629928,0.225777635,Generation X
+30299,Czech Republic,2018,female,15-24 years,24,10629928,0.225777635,Generation X
 30300,Denmark,2018,female,15-24 years,8,5793636,0.138082544,Generation X
 30301,Dominican Republic,2018,female,15-24 years,28,10765531,0.260089354,Generation X
 30302,Ecuador,2018,female,15-24 years,103,17015672,0.605324315,Generation X
@@ -30358,7 +30358,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30357,Turkey,2018,female,15-24 years,0,82809304,0,Generation X
 30358,Ukraine,2018,female,15-24 years,63,44622518,0.141184323,Generation X
 30359,United Kingdom,2018,female,15-24 years,139,66460344,0.209147277,Generation X
-30360,United States of America,2018,female,15-24 years,1495,326838199,0.457412874,Generation X
+30360,United States,2018,female,15-24 years,1495,326838199,0.457412874,Generation X
 30361,Uruguay,2018,female,15-24 years,15,3427042,0.437695249,Generation X
 30362,Uzbekistan,2018,female,15-24 years,420,32956100,1.274422641,Generation X
 30363,Antigua and Barbuda,2017,female,15-24 years,0,91119,0,Generation X
@@ -30379,7 +30379,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30378,Croatia,2017,female,15-24 years,5,4124531,0.121225904,Generation X
 30379,Cuba,2017,female,15-24 years,14,11336405,0.123495941,Generation X
 30380,Cyprus,2017,female,15-24 years,2,1208523,0.165491265,Generation X
-30381,Czechia,2017,female,15-24 years,21,10594438,0.198217215,Generation X
+30381,Czech Republic,2017,female,15-24 years,21,10594438,0.198217215,Generation X
 30382,Denmark,2017,female,15-24 years,11,5764980,0.190807253,Generation X
 30383,Dominican Republic,2017,female,15-24 years,24,10647244,0.225410444,Generation X
 30384,Ecuador,2017,female,15-24 years,87,16696944,0.521053433,Generation X
@@ -30440,7 +30440,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30439,Turkey,2017,female,15-24 years,0,82089826,0,Generation X
 30440,Ukraine,2017,female,15-24 years,78,44831135,0.173986226,Generation X
 30441,United Kingdom,2017,female,15-24 years,120,66058859,0.18165618,Generation X
-30442,United States of America,2017,female,15-24 years,1495,325122128,0.459827207,Generation X
+30442,United States,2017,female,15-24 years,1495,325122128,0.459827207,Generation X
 30443,Uruguay,2017,female,15-24 years,22,3422200,0.642861317,Generation X
 30444,Uzbekistan,2017,female,15-24 years,417,32388600,1.287490043,Generation X
 30445,Antigua and Barbuda,2020,female,25-34 years,0,92664,0,Boomers
@@ -30461,7 +30461,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30460,Croatia,2020,female,25-34 years,0,4047680,0,Boomers
 30461,Cuba,2020,female,25-34 years,0,11300698,0,Boomers
 30462,Cyprus,2020,female,25-34 years,0,1237537,0,Boomers
-30463,Czechia,2020,female,25-34 years,26,10697858,0.243039307,Boomers
+30463,Czech Republic,2020,female,25-34 years,26,10697858,0.243039307,Boomers
 30464,Denmark,2020,female,25-34 years,0,5831404,0,Boomers
 30465,Dominican Republic,2020,female,25-34 years,0,10999664,0,Boomers
 30466,Ecuador,2020,female,25-34 years,29,17588595,0.164879571,Boomers
@@ -30522,7 +30522,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30521,Turkey,2020,female,25-34 years,0,84135428,0,Boomers
 30522,Ukraine,2020,female,25-34 years,0,44132049,0,Boomers
 30523,United Kingdom,2020,female,25-34 years,0,67081000,0,Boomers
-30524,United States of America,2020,female,25-34 years,1495,331501080,0.450978923,Boomers
+30524,United States,2020,female,25-34 years,1495,331501080,0.450978923,Boomers
 30525,Uruguay,2020,female,25-34 years,0,3429086,0,Boomers
 30526,Uzbekistan,2020,female,25-34 years,0,34232050,0,Boomers
 30527,Antigua and Barbuda,2019,female,25-34 years,0,92117,0,Boomers
@@ -30543,7 +30543,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30542,Croatia,2019,female,25-34 years,9,4065253,0.221388435,Boomers
 30543,Cuba,2019,female,25-34 years,5,11316697,0.044182503,Boomers
 30544,Cyprus,2019,female,25-34 years,0,1228836,0,Boomers
-30545,Czechia,2019,female,25-34 years,24,10671870,0.224890296,Boomers
+30545,Czech Republic,2019,female,25-34 years,24,10671870,0.224890296,Boomers
 30546,Denmark,2019,female,25-34 years,0,5814422,0,Boomers
 30547,Dominican Republic,2019,female,25-34 years,0,10881882,0,Boomers
 30548,Ecuador,2019,female,25-34 years,43,17343740,0.247928071,Boomers
@@ -30604,7 +30604,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30603,Turkey,2019,female,25-34 years,163,83481684,0.19525241,Boomers
 30604,Ukraine,2019,female,25-34 years,148,44386203,0.333436947,Boomers
 30605,United Kingdom,2019,female,25-34 years,223,66836327,0.33365089,Boomers
-30606,United States of America,2019,female,25-34 years,1495,328329953,0.455334637,Boomers
+30606,United States,2019,female,25-34 years,1495,328329953,0.455334637,Boomers
 30607,Uruguay,2019,female,25-34 years,23,3428409,0.670865116,Boomers
 30608,Uzbekistan,2019,female,25-34 years,212,33580350,0.631321591,Boomers
 30609,Antigua and Barbuda,2018,female,25-34 years,0,91626,0,Boomers
@@ -30625,7 +30625,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30624,Croatia,2018,female,25-34 years,0,4087843,0,Boomers
 30625,Cuba,2018,female,25-34 years,23,11328244,0.20303235,Boomers
 30626,Cyprus,2018,female,25-34 years,2,1218831,0.164091658,Boomers
-30627,Czechia,2018,female,25-34 years,24,10629928,0.225777635,Boomers
+30627,Czech Republic,2018,female,25-34 years,24,10629928,0.225777635,Boomers
 30628,Denmark,2018,female,25-34 years,9,5793636,0.155342862,Boomers
 30629,Dominican Republic,2018,female,25-34 years,26,10765531,0.241511543,Boomers
 30630,Ecuador,2018,female,25-34 years,41,17015672,0.240954339,Boomers
@@ -30686,7 +30686,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30685,Turkey,2018,female,25-34 years,0,82809304,0,Boomers
 30686,Ukraine,2018,female,25-34 years,134,44622518,0.300296814,Boomers
 30687,United Kingdom,2018,female,25-34 years,193,66460344,0.290398738,Boomers
-30688,United States of America,2018,female,25-34 years,1495,326838199,0.457412874,Boomers
+30688,United States,2018,female,25-34 years,1495,326838199,0.457412874,Boomers
 30689,Uruguay,2018,female,25-34 years,18,3427042,0.525234298,Boomers
 30690,Uzbekistan,2018,female,25-34 years,191,32956100,0.579558868,Boomers
 30691,Antigua and Barbuda,2017,female,25-34 years,0,91119,0,Boomers
@@ -30707,7 +30707,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30706,Croatia,2017,female,25-34 years,8,4124531,0.193961447,Boomers
 30707,Cuba,2017,female,25-34 years,20,11336405,0.176422772,Boomers
 30708,Cyprus,2017,female,25-34 years,0,1208523,0,Boomers
-30709,Czechia,2017,female,25-34 years,25,10594438,0.235972876,Boomers
+30709,Czech Republic,2017,female,25-34 years,25,10594438,0.235972876,Boomers
 30710,Denmark,2017,female,25-34 years,13,5764980,0.225499481,Boomers
 30711,Dominican Republic,2017,female,25-34 years,21,10647244,0.197234139,Boomers
 30712,Ecuador,2017,female,25-34 years,56,16696944,0.335390716,Boomers
@@ -30768,7 +30768,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30767,Turkey,2017,female,25-34 years,0,82089826,0,Boomers
 30768,Ukraine,2017,female,25-34 years,159,44831135,0.354664231,Boomers
 30769,United Kingdom,2017,female,25-34 years,162,66058859,0.245235843,Boomers
-30770,United States of America,2017,female,25-34 years,1495,325122128,0.459827207,Boomers
+30770,United States,2017,female,25-34 years,1495,325122128,0.459827207,Boomers
 30771,Uruguay,2017,female,25-34 years,21,3422200,0.613640348,Boomers
 30772,Uzbekistan,2017,female,25-34 years,193,32388600,0.595888677,Boomers
 30773,Antigua and Barbuda,2020,female,35-54 years,0,92664,0,Silent
@@ -30789,7 +30789,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30788,Croatia,2020,female,35-54 years,0,4047680,0,Silent
 30789,Cuba,2020,female,35-54 years,0,11300698,0,Silent
 30790,Cyprus,2020,female,35-54 years,0,1237537,0,Silent
-30791,Czechia,2020,female,35-54 years,55,10697858,0.514121612,Silent
+30791,Czech Republic,2020,female,35-54 years,55,10697858,0.514121612,Silent
 30792,Denmark,2020,female,35-54 years,0,5831404,0,Silent
 30793,Dominican Republic,2020,female,35-54 years,0,10999664,0,Silent
 30794,Ecuador,2020,female,35-54 years,48,17588595,0.272904118,Silent
@@ -30850,7 +30850,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30849,Turkey,2020,female,35-54 years,0,84135428,0,Silent
 30850,Ukraine,2020,female,35-54 years,0,44132049,0,Silent
 30851,United Kingdom,2020,female,35-54 years,0,67081000,0,Silent
-30852,United States of America,2020,female,35-54 years,1495,331501080,0.450978923,Silent
+30852,United States,2020,female,35-54 years,1495,331501080,0.450978923,Silent
 30853,Uruguay,2020,female,35-54 years,0,3429086,0,Silent
 30854,Uzbekistan,2020,female,35-54 years,0,34232050,0,Silent
 30855,Antigua and Barbuda,2019,female,35-54 years,0,92117,0,Silent
@@ -30871,7 +30871,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30870,Croatia,2019,female,35-54 years,28,4065253,0.68876402,Silent
 30871,Cuba,2019,female,35-54 years,75,11316697,0.662737546,Silent
 30872,Cyprus,2019,female,35-54 years,0,1228836,0,Silent
-30873,Czechia,2019,female,35-54 years,75,10671870,0.702782174,Silent
+30873,Czech Republic,2019,female,35-54 years,75,10671870,0.702782174,Silent
 30874,Denmark,2019,female,35-54 years,0,5814422,0,Silent
 30875,Dominican Republic,2019,female,35-54 years,0,10881882,0,Silent
 30876,Ecuador,2019,female,35-54 years,51,17343740,0.294054224,Silent
@@ -30932,7 +30932,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30931,Turkey,2019,female,35-54 years,202,83481684,0.241969244,Silent
 30932,Ukraine,2019,female,35-54 years,284,44386203,0.639838465,Silent
 30933,United Kingdom,2019,female,35-54 years,506,66836327,0.75707332,Silent
-30934,United States of America,2019,female,35-54 years,1495,328329953,0.455334637,Silent
+30934,United States,2019,female,35-54 years,1495,328329953,0.455334637,Silent
 30935,Uruguay,2019,female,35-54 years,40,3428409,1.16672194,Silent
 30936,Uzbekistan,2019,female,35-54 years,118,33580350,0.35139598,Silent
 30937,Antigua and Barbuda,2018,female,35-54 years,0,91626,0,Silent
@@ -30953,7 +30953,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 30952,Croatia,2018,female,35-54 years,0,4087843,0,Silent
 30953,Cuba,2018,female,35-54 years,73,11328244,0.644407024,Silent
 30954,Cyprus,2018,female,35-54 years,2,1218831,0.164091658,Silent
-30955,Czechia,2018,female,35-54 years,81,10629928,0.761999517,Silent
+30955,Czech Republic,2018,female,35-54 years,81,10629928,0.761999517,Silent
 30956,Denmark,2018,female,35-54 years,50,5793636,0.863015902,Silent
 30957,Dominican Republic,2018,female,35-54 years,30,10765531,0.278667165,Silent
 30958,Ecuador,2018,female,35-54 years,42,17015672,0.246831274,Silent
@@ -31014,7 +31014,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31013,Turkey,2018,female,35-54 years,0,82809304,0,Silent
 31014,Ukraine,2018,female,35-54 years,309,44622518,0.69247549,Silent
 31015,United Kingdom,2018,female,35-54 years,503,66460344,0.756842306,Silent
-31016,United States of America,2018,female,35-54 years,1495,326838199,0.457412874,Silent
+31016,United States,2018,female,35-54 years,1495,326838199,0.457412874,Silent
 31017,Uruguay,2018,female,35-54 years,61,3427042,1.779960677,Silent
 31018,Uzbekistan,2018,female,35-54 years,130,32956100,0.394464151,Silent
 31019,Antigua and Barbuda,2017,female,35-54 years,0,91119,0,Silent
@@ -31035,7 +31035,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31034,Croatia,2017,female,35-54 years,49,4124531,1.188013861,Silent
 31035,Cuba,2017,female,35-54 years,98,11336405,0.864471585,Silent
 31036,Cyprus,2017,female,35-54 years,2,1208523,0.165491265,Silent
-31037,Czechia,2017,female,35-54 years,90,10594438,0.849502352,Silent
+31037,Czech Republic,2017,female,35-54 years,90,10594438,0.849502352,Silent
 31038,Denmark,2017,female,35-54 years,43,5764980,0.7458829,Silent
 31039,Dominican Republic,2017,female,35-54 years,46,10647244,0.432036685,Silent
 31040,Ecuador,2017,female,35-54 years,34,16696944,0.203630077,Silent
@@ -31096,7 +31096,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31095,Turkey,2017,female,35-54 years,0,82089826,0,Silent
 31096,Ukraine,2017,female,35-54 years,309,44831135,0.689253127,Silent
 31097,United Kingdom,2017,female,35-54 years,421,66058859,0.637310433,Silent
-31098,United States of America,2017,female,35-54 years,1495,325122128,0.459827207,Silent
+31098,United States,2017,female,35-54 years,1495,325122128,0.459827207,Silent
 31099,Uruguay,2017,female,35-54 years,44,3422200,1.285722635,Silent
 31100,Uzbekistan,2017,female,35-54 years,119,32388600,0.367413226,Silent
 31101,Antigua and Barbuda,2020,female,55-74 years,0,92664,0,G.I. Generation
@@ -31117,7 +31117,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31116,Croatia,2020,female,55-74 years,0,4047680,0,G.I. Generation
 31117,Cuba,2020,female,55-74 years,0,11300698,0,G.I. Generation
 31118,Cyprus,2020,female,55-74 years,0,1237537,0,G.I. Generation
-31119,Czechia,2020,female,55-74 years,85,10697858,0.794551582,G.I. Generation
+31119,Czech Republic,2020,female,55-74 years,85,10697858,0.794551582,G.I. Generation
 31120,Denmark,2020,female,55-74 years,0,5831404,0,G.I. Generation
 31121,Dominican Republic,2020,female,55-74 years,0,10999664,0,G.I. Generation
 31122,Ecuador,2020,female,55-74 years,27,17588595,0.153508566,G.I. Generation
@@ -31178,7 +31178,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31177,Turkey,2020,female,55-74 years,0,84135428,0,G.I. Generation
 31178,Ukraine,2020,female,55-74 years,0,44132049,0,G.I. Generation
 31179,United Kingdom,2020,female,55-74 years,0,67081000,0,G.I. Generation
-31180,United States of America,2020,female,55-74 years,1495,331501080,0.450978923,G.I. Generation
+31180,United States,2020,female,55-74 years,1495,331501080,0.450978923,G.I. Generation
 31181,Uruguay,2020,female,55-74 years,0,3429086,0,G.I. Generation
 31182,Uzbekistan,2020,female,55-74 years,0,34232050,0,G.I. Generation
 31183,Antigua and Barbuda,2019,female,55-74 years,0,92117,0,G.I. Generation
@@ -31199,7 +31199,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31198,Croatia,2019,female,55-74 years,53,4065253,1.303731896,G.I. Generation
 31199,Cuba,2019,female,55-74 years,128,11316697,1.131072079,G.I. Generation
 31200,Cyprus,2019,female,55-74 years,0,1228836,0,G.I. Generation
-31201,Czechia,2019,female,55-74 years,84,10671870,0.787116035,G.I. Generation
+31201,Czech Republic,2019,female,55-74 years,84,10671870,0.787116035,G.I. Generation
 31202,Denmark,2019,female,55-74 years,0,5814422,0,G.I. Generation
 31203,Dominican Republic,2019,female,55-74 years,0,10881882,0,G.I. Generation
 31204,Ecuador,2019,female,55-74 years,19,17343740,0.109549613,G.I. Generation
@@ -31260,7 +31260,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31259,Turkey,2019,female,55-74 years,108,83481684,0.129369695,G.I. Generation
 31260,Ukraine,2019,female,55-74 years,308,44386203,0.693909321,G.I. Generation
 31261,United Kingdom,2019,female,55-74 years,316,66836327,0.472796777,G.I. Generation
-31262,United States of America,2019,female,55-74 years,1495,328329953,0.455334637,G.I. Generation
+31262,United States,2019,female,55-74 years,1495,328329953,0.455334637,G.I. Generation
 31263,Uruguay,2019,female,55-74 years,44,3428409,1.283394134,G.I. Generation
 31264,Uzbekistan,2019,female,55-74 years,26,33580350,0.077426233,G.I. Generation
 31265,Antigua and Barbuda,2018,female,55-74 years,0,91626,0,G.I. Generation
@@ -31281,7 +31281,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31280,Croatia,2018,female,55-74 years,0,4087843,0,G.I. Generation
 31281,Cuba,2018,female,55-74 years,146,11328244,1.288814047,G.I. Generation
 31282,Cyprus,2018,female,55-74 years,2,1218831,0.164091658,G.I. Generation
-31283,Czechia,2018,female,55-74 years,68,10629928,0.639703298,G.I. Generation
+31283,Czech Republic,2018,female,55-74 years,68,10629928,0.639703298,G.I. Generation
 31284,Denmark,2018,female,55-74 years,61,5793636,1.052879401,G.I. Generation
 31285,Dominican Republic,2018,female,55-74 years,31,10765531,0.28795607,G.I. Generation
 31286,Ecuador,2018,female,55-74 years,34,17015672,0.199815793,G.I. Generation
@@ -31342,7 +31342,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31341,Turkey,2018,female,55-74 years,0,82809304,0,G.I. Generation
 31342,Ukraine,2018,female,55-74 years,345,44622518,0.773152246,G.I. Generation
 31343,United Kingdom,2018,female,55-74 years,288,66460344,0.433341121,G.I. Generation
-31344,United States of America,2018,female,55-74 years,3080,326838199,0.942362309,G.I. Generation
+31344,United States,2018,female,55-74 years,3080,326838199,0.942362309,G.I. Generation
 31345,Uruguay,2018,female,55-74 years,48,3427042,1.400624795,G.I. Generation
 31346,Uzbekistan,2018,female,55-74 years,20,32956100,0.060686792,G.I. Generation
 31347,Antigua and Barbuda,2017,female,55-74 years,0,91119,0,G.I. Generation
@@ -31363,7 +31363,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31362,Croatia,2017,female,55-74 years,55,4124531,1.333484947,G.I. Generation
 31363,Cuba,2017,female,55-74 years,139,11336405,1.226138269,G.I. Generation
 31364,Cyprus,2017,female,55-74 years,1,1208523,0.082745632,G.I. Generation
-31365,Czechia,2017,female,55-74 years,110,10594438,1.038280653,G.I. Generation
+31365,Czech Republic,2017,female,55-74 years,110,10594438,1.038280653,G.I. Generation
 31366,Denmark,2017,female,55-74 years,65,5764980,1.127497407,G.I. Generation
 31367,Dominican Republic,2017,female,55-74 years,13,10647244,0.122097324,G.I. Generation
 31368,Ecuador,2017,female,55-74 years,30,16696944,0.179673598,G.I. Generation
@@ -31424,7 +31424,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31423,Turkey,2017,female,55-74 years,0,82089826,0,G.I. Generation
 31424,Ukraine,2017,female,55-74 years,348,44831135,0.77624624,G.I. Generation
 31425,United Kingdom,2017,female,55-74 years,267,66058859,0.404185001,G.I. Generation
-31426,United States of America,2017,female,55-74 years,2924,325122128,0.89935435,G.I. Generation
+31426,United States,2017,female,55-74 years,2924,325122128,0.89935435,G.I. Generation
 31427,Uruguay,2017,female,55-74 years,32,3422200,0.935071007,G.I. Generation
 31428,Uzbekistan,2017,female,55-74 years,33,32388600,0.101887701,G.I. Generation
 31429,Antigua and Barbuda,2020,female,75+ years,0,92664,0,G.I. Generation
@@ -31445,7 +31445,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31444,Croatia,2020,female,75+ years,0,4047680,0,G.I. Generation
 31445,Cuba,2020,female,75+ years,0,11300698,0,G.I. Generation
 31446,Cyprus,2020,female,75+ years,0,1237537,0,G.I. Generation
-31447,Czechia,2020,female,75+ years,35,10697858,0.327168299,G.I. Generation
+31447,Czech Republic,2020,female,75+ years,35,10697858,0.327168299,G.I. Generation
 31448,Denmark,2020,female,75+ years,0,5831404,0,G.I. Generation
 31449,Dominican Republic,2020,female,75+ years,0,10999664,0,G.I. Generation
 31450,Ecuador,2020,female,75+ years,13,17588595,0.073911532,G.I. Generation
@@ -31506,7 +31506,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31505,Turkey,2020,female,75+ years,0,84135428,0,G.I. Generation
 31506,Ukraine,2020,female,75+ years,0,44132049,0,G.I. Generation
 31507,United Kingdom,2020,female,75+ years,0,67081000,0,G.I. Generation
-31508,United States of America,2020,female,75+ years,521,331501080,0.157163892,G.I. Generation
+31508,United States,2020,female,75+ years,521,331501080,0.157163892,G.I. Generation
 31509,Uruguay,2020,female,75+ years,0,3429086,0,G.I. Generation
 31510,Uzbekistan,2020,female,75+ years,0,34232050,0,G.I. Generation
 31511,Antigua and Barbuda,2019,female,75+ years,0,92117,0,G.I. Generation
@@ -31527,7 +31527,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31526,Croatia,2019,female,75+ years,25,4065253,0.614967875,G.I. Generation
 31527,Cuba,2019,female,75+ years,44,11316697,0.388806027,G.I. Generation
 31528,Cyprus,2019,female,75+ years,0,1228836,0,G.I. Generation
-31529,Czechia,2019,female,75+ years,38,10671870,0.356076302,G.I. Generation
+31529,Czech Republic,2019,female,75+ years,38,10671870,0.356076302,G.I. Generation
 31530,Denmark,2019,female,75+ years,0,5814422,0,G.I. Generation
 31531,Dominican Republic,2019,female,75+ years,0,10881882,0,G.I. Generation
 31532,Ecuador,2019,female,75+ years,5,17343740,0.028828845,G.I. Generation
@@ -31588,7 +31588,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31587,Turkey,2019,female,75+ years,50,83481684,0.059893377,G.I. Generation
 31588,Ukraine,2019,female,75+ years,264,44386203,0.594779418,G.I. Generation
 31589,United Kingdom,2019,female,75+ years,85,66836327,0.127176348,G.I. Generation
-31590,United States of America,2019,female,75+ years,568,328329953,0.172996705,G.I. Generation
+31590,United States,2019,female,75+ years,568,328329953,0.172996705,G.I. Generation
 31591,Uruguay,2019,female,75+ years,23,3428409,0.670865116,G.I. Generation
 31592,Uzbekistan,2019,female,75+ years,5,33580350,0.01488966,G.I. Generation
 31593,Antigua and Barbuda,2018,female,75+ years,0,91626,0,G.I. Generation
@@ -31609,7 +31609,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31608,Croatia,2018,female,75+ years,0,4087843,0,G.I. Generation
 31609,Cuba,2018,female,75+ years,55,11328244,0.485512141,G.I. Generation
 31610,Cyprus,2018,female,75+ years,1,1218831,0.082045829,G.I. Generation
-31611,Czechia,2018,female,75+ years,50,10629928,0.470370072,G.I. Generation
+31611,Czech Republic,2018,female,75+ years,50,10629928,0.470370072,G.I. Generation
 31612,Denmark,2018,female,75+ years,30,5793636,0.517809541,G.I. Generation
 31613,Dominican Republic,2018,female,75+ years,12,10765531,0.111466866,G.I. Generation
 31614,Ecuador,2018,female,75+ years,7,17015672,0.041138546,G.I. Generation
@@ -31670,7 +31670,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31669,Turkey,2018,female,75+ years,0,82809304,0,G.I. Generation
 31670,Ukraine,2018,female,75+ years,245,44622518,0.549050145,G.I. Generation
 31671,United Kingdom,2018,female,75+ years,93,66460344,0.13993307,G.I. Generation
-31672,United States of America,2018,female,75+ years,515,326838199,0.157570321,G.I. Generation
+31672,United States,2018,female,75+ years,515,326838199,0.157570321,G.I. Generation
 31673,Uruguay,2018,female,75+ years,19,3427042,0.554413982,G.I. Generation
 31674,Uzbekistan,2018,female,75+ years,2,32956100,0.006068679,G.I. Generation
 31675,Antigua and Barbuda,2017,female,75+ years,0,91119,0,G.I. Generation
@@ -31691,7 +31691,7 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31690,Croatia,2017,female,75+ years,42,4124531,1.018297596,G.I. Generation
 31691,Cuba,2017,female,75+ years,66,11336405,0.582195149,G.I. Generation
 31692,Cyprus,2017,female,75+ years,0,1208523,0,G.I. Generation
-31693,Czechia,2017,female,75+ years,42,10594438,0.396434431,G.I. Generation
+31693,Czech Republic,2017,female,75+ years,42,10594438,0.396434431,G.I. Generation
 31694,Denmark,2017,female,75+ years,32,5764980,0.555075646,G.I. Generation
 31695,Dominican Republic,2017,female,75+ years,3,10647244,0.028176306,G.I. Generation
 31696,Ecuador,2017,female,75+ years,4,16696944,0.02395648,G.I. Generation
@@ -31752,6 +31752,6 @@ data_id,country,year,sex,age,suicides_no,population,suicides/100k pop,generation
 31751,Turkey,2017,female,75+ years,0,82089826,0,G.I. Generation
 31752,Ukraine,2017,female,75+ years,256,44831135,0.571031717,G.I. Generation
 31753,United Kingdom,2017,female,75+ years,104,66058859,0.157435356,G.I. Generation
-31754,United States of America,2017,female,75+ years,501,325122128,0.15409594,G.I. Generation
+31754,United States,2017,female,75+ years,501,325122128,0.15409594,G.I. Generation
 31755,Uruguay,2017,female,75+ years,14,3422200,0.409093566,G.I. Generation
 31756,Uzbekistan,2017,female,75+ years,3,32388600,0.009262518,G.I. Generation
