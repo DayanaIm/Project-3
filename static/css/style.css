@@ -178,15 +178,19 @@
     box-shadow: none;
 }
 
-#graph{
+#graph1, #graph2{
     padding-top: 120px;
     display: flex;
     align-items: flex-start;
     justify-content: center;
     min-height: 100vh;
     width: 100%;
-    background-color: #D4C1EC;
-    background-color: #F2DFD7;
-    background-image: radial-gradient(#736CED 0.8px, #F2DFD7 0.8px);
+    background-color: #f2dfd7;
     background-size: 16px 16px;
+}
+
+
+#chart1{
+    width: 900px;
+    height: 700px;
 }

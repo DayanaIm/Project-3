@@ -33,9 +33,6 @@ def api_province_data():
 def lat_and_long():
     return jsonify(read_csv_and_handle_errors('Resources/world_country_latitude_and_longitude.csv'))
 
-@app.route("/api/graph_2")
-def graph_2():
-    return jsonify(read_csv_and_handle_errors('Resources/graph_2.csv'))
 
 
 if __name__ == '__main__':
