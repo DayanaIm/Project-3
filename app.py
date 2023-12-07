@@ -3,29 +3,40 @@ import pandas as pd
 
 app = Flask(__name__)
 
+def read_csv_and_handle_errors(file_path):
+    try:
+        df = pd.read_csv(file_path)
+        data = df.to_dict(orient='records')
+        return data
+    except FileNotFoundError:
+        return {'error': 'File not found'}, 404
+    except Exception as e:
+        return {'error': str(e)}, 500
 
 @app.route('/')
 def home():
-   return render_template("main-page.html")
+   return render_template("index.html")
 
 @app.route("/api/suicides_data")
 def api_suicides_data():
-
-    df = pd.read_csv('Resources/suicides_data.csv')
-    suicides_data = df.to_dict()
-    return jsonify(suicides_data)
+    return jsonify(read_csv_and_handle_errors('Resources/suicides_data.csv'))
 
 @app.route("/api/gdp_data")
 def api_gdp_data():
-    df = pd.read_csv('Resources/gdp_data.csv')
-    gdp_data = df.to_dict()
-    return jsonify(gdp_data)
+    return jsonify(read_csv_and_handle_errors('Resources/gdp_data.csv'))
 
 @app.route("/api/province_data")
 def api_province_data():
-    df = pd.read_csv('Resources/province_data.csv')
-    province_data = df.to_dict()
-    return jsonify(province_data)
+    return jsonify(read_csv_and_handle_errors('Resources/province_data.csv'))
+
+@app.route("/api/lat_and_long")
+def lat_and_long():
+    return jsonify(read_csv_and_handle_errors('Resources/world_country_latitude_and_longitude.csv'))
+
+@app.route("/api/graph_2")
+def graph_2():
+    return jsonify(read_csv_and_handle_errors('Resources/graph_2.csv'))
+
 
 if __name__ == '__main__':
    app.run(host="localhost", port=5000, debug=True)
