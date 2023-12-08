@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", function () {
     let chart; // Chart variable to keep track of the chart instance
 
     // Fetch data from Flask API
@@ -7,10 +7,10 @@ document.addEventListener("DOMContentLoaded", function() {
         .then(data => {
             // Extract unique countries and years
             const countries = [...new Set(data.map(item => item.country))];
-            const years = [...new Set(data.map(item => item.year))];
+            const years = getAvailableYears(data, countries[0]); // Initial selection
 
             // Create dropdowns for country and year
-            createDropdown('countryDropdown', countries, updateChart, 'graph2');
+            createDropdown('countryDropdown', countries, updateYearDropdown, 'graph2');
             createDropdown('yearDropdown', years, updateChart, 'graph2');
 
             // Initial rendering of the chart with all data
@@ -34,6 +34,57 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
             })
             .catch(error => console.error('Error fetching data:', error));
+    }
+
+    // Update the year dropdown based on the selected country
+    function updateYearDropdown() {
+        const selectedCountry = document.getElementById('countryDropdown').value;
+
+        fetch(`/api/pie_chart?country=${selectedCountry}`)
+            .then(response => response.json())
+            .then(data => {
+                const years = getAvailableYears(data, selectedCountry);
+                updateDropdownOptions('yearDropdown', years);
+                updateChart();
+            })
+            .catch(error => console.error('Error fetching data:', error));
+    }
+
+    // Helper function to get available years for a selected country
+    function getAvailableYears(data, selectedCountry) {
+        const countryData = data.filter(item => item.country === selectedCountry);
+        return [...new Set(countryData.map(item => item.year))];
+    }
+
+    // Helper function to update dropdown options
+    function updateDropdownOptions(dropdownId, options) {
+        const dropdown = document.getElementById(dropdownId);
+        dropdown.innerHTML = ''; // Clear existing options
+
+        options.forEach(option => {
+            const optionElement = new Option(option, option);
+            dropdown.add(optionElement);
+        });
+    }
+
+    // Helper function to create a dropdown
+    function createDropdown(id, options, onChange, containerId) {
+        const dropdown = document.createElement('select');
+        dropdown.id = id;
+        dropdown.addEventListener('change', onChange);
+
+        options.forEach(option => {
+            const optionElement = new Option(option, option);
+            dropdown.add(optionElement);
+        });
+
+        const container = document.getElementById(containerId);
+
+        if (container) {
+            container.appendChild(dropdown);
+        } else {
+            console.error(`Container element with ID "${containerId}" not found.`);
+        }
     }
 
     // Render a pie chart with total for male and female
@@ -67,6 +118,10 @@ document.addEventListener("DOMContentLoaded", function() {
                     position: 'bottom',
                     fontSize: '14px',
                 },
+                fill: {
+                    type: 'gradient',
+                    colors: ['#775DD0', '#FEB019']
+                  },
                 responsive: [
                     {
                         breakpoint: 768,
@@ -108,25 +163,4 @@ document.addEventListener("DOMContentLoaded", function() {
             console.error('No data available for the selected country and year.');
         }
     }
-
-    // Helper function to create a dropdown
-    function createDropdown(id, options, onChange, containerId) {
-        const dropdown = document.createElement('select');
-        dropdown.id = id;
-        dropdown.addEventListener('change', onChange);
-
-        options.forEach(option => {
-            const optionElement = new Option(option, option);
-            dropdown.add(optionElement);
-        });
-
-        const container = document.getElementById(containerId);
-
-        if (container) {
-            container.appendChild(dropdown);
-        } else {
-            console.error(`Container element with ID "${containerId}" not found.`);
-        }
-    }
 });
-
