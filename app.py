@@ -21,9 +21,6 @@ def home():
 def api_suicides_data():
     return jsonify(read_csv_and_handle_errors('Resources/suicides_data.csv'))
 
-@app.route("/api/gdp_data")
-def api_gdp_data():
-    return jsonify(read_csv_and_handle_errors('Resources/gdp_data.csv'))
 
 @app.route("/api/province_data")
 def api_province_data():

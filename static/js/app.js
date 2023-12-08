@@ -173,5 +173,41 @@ document.addEventListener("DOMContentLoaded", function () {
             renderChart(data);
         })
         .catch(error => console.error('Error fetching data:', error));
+
 });
 
+
+//---------------------------------------------------------
+// Fetch data from Flask API based on the selected country
+//---------------------------------------------------------
+function updateChart() {
+    const selectedCountry = document.getElementById('countryDropdown').value;
+
+    fetch(`/api/suicides_data?country=${selectedCountry}`)
+        .then(response => response.json())
+        .then(data => {
+            // Destroy existing chart if any
+            if (chart) {
+                chart.destroy();
+            }
+
+            // Render the new chart
+            renderChart(data);
+        })
+        .catch(error => console.error('Error fetching data:', error));
+
+        
+    const selectedYear = document.getElementById('yearDropdown').value;
+    fetch(`/api/suicides_data?year=${selectedYear}`)
+            .then(response => response.json())
+            .then(data => {
+                // Destroy existing chart if any
+                if (chart) {
+                    chart.destroy();
+                }
+    
+                // Render the new chart
+                renderChart(data);
+            })
+            .catch(error => console.error('Error fetching data:', error));
+    }

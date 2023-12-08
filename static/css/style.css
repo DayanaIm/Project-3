@@ -178,7 +178,7 @@
     box-shadow: none;
 }
 
-#graph1, #graph2{
+#graph1, #graph2, #graph3, #graph4{
     padding-top: 120px;
     display: flex;
     align-items: flex-start;
