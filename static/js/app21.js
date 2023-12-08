@@ -10,8 +10,8 @@ document.addEventListener("DOMContentLoaded", function () {
             const years = getAvailableYears(data, countries[0]); // Initial selection
 
             // Create dropdowns for country and year
-            createDropdown('countryDropdown', countries, updateYearDropdown, 'graph2');
-            createDropdown('yearDropdown', years, updateChart, 'graph2');
+            createDropdown('countryDropdown', countries, updateYearDropdown, 'dropdowns');
+            createDropdown('yearDropdown', years, updateChart, 'dropdowns');
 
             // Initial rendering of the chart with all data
             renderChart(data);
@@ -114,9 +114,12 @@ document.addEventListener("DOMContentLoaded", function () {
                     type: 'pie',
                 },
                 labels: ['Male Suicides', 'Female Suicides'],
+                colors: ['#775DD0', '#FEB019'],
+            
                 legend: {
                     position: 'bottom',
                     fontSize: '14px',
+                    
                 },
                 fill: {
                     type: 'gradient',

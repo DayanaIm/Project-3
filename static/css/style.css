@@ -189,12 +189,29 @@
     background-size: 16px 16px;
 }
 
+#graph2 {
+    flex-direction: column;
+    padding-top: inherit;
+    align-items: center;
+}
+
+#dropdowns select{
+    padding: 8px;
+    margin-top: 15px;
+    border-style: solid;
+    border-color: #736CED;
+    border-width: 3px;
+    border-radius: 10px;
+
+}
+
+#countryDropdown {
+    margin-right: 10px;
+
+}
+
 
 #chart1{
     width: 900px;
     height: 700px;
-}
-
-#chart2{
-    
 }
