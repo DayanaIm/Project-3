@@ -1,7 +1,12 @@
 // Function to display a Leaflet map
 function chart3() {
     // Create a map centered at a specific location
-    var map = L.map('graph3').setView([0, 0], 2); // Centered at the world map with lower zoom level
+    var map = L.map('graph3', {
+        center: [0, 0], // Centered at the world map
+        zoom: 3, // Initial zoom level
+        minZoom: 3, // Minimum zoom level
+        maxZoom: 4 // Maximum zoom level
+    });
 
     // Add a tile layer to the map (using OpenStreetMap tiles)
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -44,11 +49,12 @@ function chart3() {
             filteredData.forEach(function (data) {
                 var color = getColorBasedOnSuicides(data['suicides/100k pop']);
 
+                // Fixed radius for all circles
                 var circle = L.circle([data.latitude, data.longitude], {
                     color: color,
                     fillColor: color,
                     fillOpacity: 0.7,
-                    radius: calculateCircleRadius(data['suicides/100k pop'])
+                    radius: 120000 // Fixed radius value
                 });
 
                 // Add popup with information
@@ -64,12 +70,6 @@ function chart3() {
         yearDropdown.value = initialYear;
         yearDropdown.dispatchEvent(new Event('change'));
     });
-}
-
-// Function to calculate circle radius based on the number of suicides per 100K
-function calculateCircleRadius(suicidesPer100k) {
-    // Adjust the multiplier as needed to control the circle size
-    return Math.sqrt(suicidesPer100k) * 50000;
 }
 
 // Function to determine circle color based on the number of suicides per 100K
