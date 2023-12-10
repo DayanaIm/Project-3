@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    let chart; // Chart variable to keep track of the chart instance
+    let chart22; 
 
     // Fetch data from Flask API
     fetch('/api/pie_chart')
@@ -10,8 +10,8 @@ document.addEventListener("DOMContentLoaded", function () {
             const years = getAvailableYears(data, countries[0]); // Initial selection
 
             // Create dropdowns for country and year
-            createDropdown('countryDropdown', countries, updateYearDropdown, 'dropdowns');
-            createDropdown('yearDropdown', years, updateChart, 'dropdowns');
+            createDropdown('countryDropdown2', countries, updateYearDropdown, 'dropdown2');
+            createDropdown('yearDropdown2', years, updateChart, 'dropdown2');
 
             // Initial rendering of the chart with all data
             renderChart(data);
@@ -21,8 +21,8 @@ document.addEventListener("DOMContentLoaded", function () {
     // Fetch data based on selected country and year
     function updateChart() {
         console.log('Updating chart...');
-        const selectedCountry = document.getElementById('countryDropdown').value;
-        const selectedYear = document.getElementById('yearDropdown').value;
+        const selectedCountry = document.getElementById('countryDropdown2').value;
+        const selectedYear = document.getElementById('yearDropdown2').value;
 
         fetch(`/api/pie_chart?country=${selectedCountry}&year=${selectedYear}`)
             .then(response => response.json())
@@ -38,13 +38,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Update the year dropdown based on the selected country
     function updateYearDropdown() {
-        const selectedCountry = document.getElementById('countryDropdown').value;
+        const selectedCountry = document.getElementById('countryDropdown2').value;
 
         fetch(`/api/pie_chart?country=${selectedCountry}`)
             .then(response => response.json())
             .then(data => {
                 const years = getAvailableYears(data, selectedCountry);
-                updateDropdownOptions('yearDropdown', years);
+                updateDropdownOptions('yearDropdown2', years);
                 updateChart();
             })
             .catch(error => console.error('Error fetching data:', error));
@@ -98,8 +98,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
         console.log('Filtered data:', filteredData);
 
-        const selectedCountry = document.getElementById('countryDropdown').value;
-        const selectedYear = document.getElementById('yearDropdown').value;
+        const selectedCountry = document.getElementById('countryDropdown2').value;
+        const selectedYear = document.getElementById('yearDropdown2').value;
 
         const countryYearData = filteredData.filter(item => item.country === selectedCountry && item.year === parseInt(selectedYear, 10));
 
@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 },
                 labels: ['Male Suicides', 'Female Suicides'],
                 colors: ['#775DD0', '#FEB019'],
-            
+
                 legend: {
                     position: 'bottom',
                     fontSize: '14px',
@@ -124,7 +124,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 fill: {
                     type: 'gradient',
                     colors: ['#775DD0', '#FEB019']
-                  },
+                },
                 responsive: [
                     {
                         breakpoint: 768,
@@ -151,16 +151,16 @@ document.addEventListener("DOMContentLoaded", function () {
                 ],
             };
 
-            const chartContainer = document.getElementById('chart2');
+            const chartContainer = document.getElementById('chart22'); 
 
             if (chartContainer) {
-                if (chart) {
-                    chart.destroy();
+                if (chart22) { 
+                    chart22.destroy(); 
                 }
-                chart = new ApexCharts(chartContainer, options);
-                chart.render();
+                chart22 = new ApexCharts(chartContainer, options); 
+                chart22.render(); 
             } else {
-                console.error('Chart container element not found. Make sure you have an element with ID "chart2" in your HTML.');
+                console.error('Chart container element not found. Make sure you have an element with ID "chart22" in your HTML.'); // Change variable name to chart22
             }
         } else {
             console.error('No data available for the selected country and year.');

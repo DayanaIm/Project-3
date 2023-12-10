@@ -63,6 +63,11 @@
 /* --------------------- */
 /* TEAM */
 /* --------------------- */
+.profileLink {
+    text-decoration: none;
+    color: black;
+}
+
 #team {
     display: flex;
     flex-direction: row;
@@ -189,15 +194,36 @@
     background-size: 16px 16px;
 }
 
+#graph1 {
+    min-height: inherit;
+}
+
 #graph2 {
-    flex-direction: column;
     padding-top: inherit;
     align-items: center;
 }
 
-#dropdowns select{
+#graph2 h2 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#dropdown1 select, #dropdown2 select{
     padding: 8px;
     margin-top: 15px;
+    border-style: solid;
+    border-color: #736CED;
+    border-width: 3px;
+    border-radius: 10px;
+}
+
+#dropdown1, #dropdown2 {
+    display: flex;
+    justify-content: center;
+}
+
+#graph1 select{
+    padding: 8px;
     border-style: solid;
     border-color: #736CED;
     border-width: 3px;
@@ -216,3 +242,13 @@
     height: 700px;
 }
 
+#footer{
+    padding: 40px;
+    background-image: linear-gradient(to bottom, #f2dfd7, #f5d7d3, #f5d0d4, #f2c9d8, #eac4e0, #e1bae2, #d4b1e7, #c2aaec, #b29aec, #a18aec, #8c7aec, #736ced);
+}
+
+#footer p{
+    padding-top: 200px;
+    text-align: center;
+    color: black;
+}
