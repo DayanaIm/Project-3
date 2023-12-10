@@ -216,25 +216,3 @@
     height: 700px;
 }
 
-
-
-#graph3 styling 
-/* Additional CSS for positioning the dropdown */
-body {
-    margin: 0; /* Remove default body margin */
-}
-
-#header {
-    background-color: #333; /* Set background color for the header */
-    color: white; /* Set text color for the header */
-    padding: 15px; /* Add padding to the header */
-    position: relative;
-    text-align: center; /* Center the header text */
-}
-
-#yearDropdownContainer {
-    position: absolute;
-    top: 5%; /* Adjust the top position as needed */
-    right: 5%; /* Adjust the right position as needed */
-    color: white; /* Set text color for the dropdown */
-}
