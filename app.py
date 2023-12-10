@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_template
+from flask import Flask, app, jsonify, render_template
 import pandas as pd 
 
 app = Flask(__name__)
