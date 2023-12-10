@@ -1,40 +1,40 @@
-ï»¿Province_id,Provinces,Year,Number_of_suicides,Number_of_suicides_per_100K,Hospital_count
-1,Alberta,2018,630,14.7,297
-2,Alberta,2019,604,13.8,297
-3,Alberta,2020,622,14.1,297
-4,British Columbia,2018,575,11.5,1316
-5,British Columbia,2019,634,12.4,1316
-6,British Columbia,2020,597,11.6,1316
-7,Manitoba,2018,236,17.4,160
-8,Manitoba,2019,232,16.9,160
-9,Manitoba,2020,197,14.3,160
-10,New Brunswick,2018,124,16.1,170
-11,New Brunswick,2019,102,13.1,170
-12,New Brunswick,2020,108,13.8,170
-13,Newfoundland and Labrador,2018,71,13.5,81
-14,Newfoundland and Labrador,2019,62,11.8,81
-15,Newfoundland and Labrador,2020,67,12.9,81
-16,Nova Scotia,2018,140,14.6,178
-17,Nova Scotia,2019,135,13.9,178
-18,Nova Scotia,2020,121,12.3,178
-19,Ontario,2018,1578,11,2695
-20,Ontario,2019,1563,10.7,2695
-21,Ontario,2020,1449,9.8,2695
-22,Prince Edward Island,2018,17,11.1,95
-23,Prince Edward Island,2019,20,12.7,95
-24,Prince Edward Island,2020,13,8.1,95
-25,Quebec,2018,1094,13,1606
-26,Quebec,2019,1128,13.3,1606
-27,Quebec,2020,1055,12.3,1606
-28,Saskatchewan,2018,241,20.7,393
-29,Saskatchewan,2019,211,18,393
-30,Saskatchewan,2020,202,17.1,393
-31,Northwest Territories,2018,13,28.9,6
-32,Northwest Territories,2019,9,20,6
-33,Northwest Territories,2020,10,22.1,6
-34,Nunavut,2018,29,76,3
-35,Nunavut,2019,38,98.4,3
-36,Nunavut,2020,25,63.5,3
-37,Yukon,2018,11,27.1,33
-38,Yukon,2019,9,21.7,33
-39,Yukon,2020,6,14.3,33
+Province_id,Provinces/Territories,Type,Year,Number_of_suicides,Number_of_suicides_per_100K,Hospital_count,Latitude,Longitude
+1,Alberta,Province,2018,630,14.7,297,55,-115
+2,Alberta,Province,2019,604,13.8,297,55,-115
+3,Alberta,Province,2020,622,14.1,297,55,-115
+4,British Columbia,Province,2018,575,11.5,1316,53.726669,-127.647621
+5,British Columbia,Province,2019,634,12.4,1316,53.726669,-127.647621
+6,British Columbia,Province,2020,597,11.6,1316,53.726669,-127.647621
+7,Manitoba,Province,2018,236,17.4,160,56.415211,-98.739075
+8,Manitoba,Province,2019,232,16.9,160,56.415211,-98.739075
+9,Manitoba,Province,2020,197,14.3,160,56.415211,-98.739075
+10,New Brunswick,Province,2018,124,16.1,170,46.49839,-66.159668
+11,New Brunswick,Province,2019,102,13.1,170,46.49839,-66.159668
+12,New Brunswick,Province,2020,108,13.8,170,46.49839,-66.159668
+13,Newfoundland and Labrador,Province,2018,71,13.5,81,53.135509,-57.660435
+14,Newfoundland and Labrador,Province,2019,62,11.8,81,53.135509,-57.660435
+15,Newfoundland and Labrador,Province,2020,67,12.9,81,53.135509,-57.660435
+16,Nova Scotia,Province,2018,140,14.6,178,45,-63
+17,Nova Scotia,Province,2019,135,13.9,178,45,-63
+18,Nova Scotia,Province,2020,121,12.3,178,45,-63
+19,Ontario,Province,2018,1578,11,2695,50,-85
+20,Ontario,Province,2019,1563,10.7,2695,50,-85
+21,Ontario,Province,2020,1449,9.8,2695,50,-85
+22,Prince Edward Island,Province,2018,17,11.1,95,46.25,-63
+23,Prince Edward Island,Province,2019,20,12.7,95,46.25,-63
+24,Prince Edward Island,Province,2020,13,8.1,95,46.25,-63
+25,Quebec,Province,2018,1094,13,1606,53,-70
+26,Quebec,Province,2019,1128,13.3,1606,53,-70
+27,Quebec,Province,2020,1055,12.3,1606,53,-70
+28,Saskatchewan,Province,2018,241,20.7,393,55,-106
+29,Saskatchewan,Province,2019,211,18,393,55,-106
+30,Saskatchewan,Province,2020,202,17.1,393,55,-106
+31,Northwest Territories,Territory,2018,13,28.9,6,63.588753,-115.506938
+32,Northwest Territories,Territory,2019,9,20,6,63.588753,-115.506938
+33,Northwest Territories,Territory,2020,10,22.1,6,63.588753,-115.506938
+34,Nunavut,Territory,2018,29,76,3,70.453262,-86.798981
+35,Nunavut,Territory,2019,38,98.4,3,70.453262,-86.798981
+36,Nunavut,Territory,2020,25,63.5,3,70.453262,-86.798981
+37,Yukon,Territory,2018,11,27.1,33,64,-135
+38,Yukon,Territory,2019,9,21.7,33,64,-135
+39,Yukon,Territory,2020,6,14.3,33,64,-135

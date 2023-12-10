@@ -1,4 +1,4 @@
-from flask import Flask, app, jsonify, render_template
+from flask import Flask, jsonify, render_template
 import pandas as pd 
 
 app = Flask(__name__)
@@ -24,7 +24,7 @@ def api_suicides_data():
 @app.route("/api/province_data")
 def api_province_data():
     return jsonify(read_csv_and_handle_errors('Resources/province_data.csv'))
-
+    
 @app.route("/api/lat_and_long")
 def lat_and_long():
     return jsonify(read_csv_and_handle_errors('Resources/world_country_latitude_and_longitude.csv'))
@@ -32,6 +32,10 @@ def lat_and_long():
 @app.route("/api/pie_chart")
 def pie_chart():
     return jsonify(read_csv_and_handle_errors('Resources/pie_chart.csv'))
+
+@app.route("/api/chart3data")
+def chart3data():
+    return jsonify(read_csv_and_handle_errors('Resources/chart3data.csv'))
 
 if __name__ == '__main__':
    app.run(host="localhost", port=5000, debug=True)

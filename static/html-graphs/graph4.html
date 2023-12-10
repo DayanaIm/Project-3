@@ -6,21 +6,43 @@
   <meta name="description" content="project 3 description">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="../css/style.css">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-tooltip/dist/L.Tooltip.min.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet-tooltip/dist/L.Tooltip.min.js"></script>
   <script src="../js/app4.js" defer></script>
 </head>
+<style>
+  #header {
+      background-color: #333; 
+      padding: 15px; 
+      position: relative;
+      text-align: center;
+      justify-content: space-between;
+  }
+
+  #titleAndBackButton {
+      display: flex;
+      align-items: center;
+  }
+
+  #yearDropdownContainer {
+      padding-right: 30px;
+  }
+</style>
 
 <body>
-    <div id="header">
+  <div id="header">
+      <div id="titleAndBackButton">
         <a href="/" class="button">Back</a>
         <h1>Decoding Suicide Statistics: Health Facilities' Impact in Canada and the USA</h1>
-    </div>
+      </div>
+  </div>
 
-    <div id="graph4">
-    </div>
+      <div id="graph4">
+      </div>
+      <div id="chart4"></div>
 
-    <div id="chart4"></div>
 </body>
 
 </html>
