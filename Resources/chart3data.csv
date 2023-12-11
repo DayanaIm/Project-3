@@ -1,4 +1,4 @@
-country,year,suicides/100k pop,gdp_per_capita,country_code,latitude,longitude
+country,year,Number_of_suicides_per_100K,gdp_per_capita,country_code,latitude,longitude
 Albania,1987,20.5,796,AL,41.153332,20.168331
 Albania,1988,16.99,769,AL,41.153332,20.168331
 Albania,1989,14.41,833,AL,41.153332,20.168331

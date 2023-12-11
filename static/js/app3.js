@@ -1,75 +1,67 @@
-// Function to display a Leaflet map with markers
-function chart3(data) {
-    // Create a map centered at a specific location
-    var map = L.map('graph3').setView([20, 0], 2);
+// Create a Leaflet map
+var map = L.map('graph3', { minZoom: 3 }).setView([20, 0], 2);
 
-    // Add a tile layer to the map (using OpenStreetMap tiles)
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '© OpenStreetMap contributors'
-    }).addTo(map);
+// Add OpenStreetMap tile layer to the map
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© OpenStreetMap contributors'
+}).addTo(map);
 
-    // Create a marker cluster group for better performance
-    var markers = L.markerClusterGroup();
+// Create a new XMLHttpRequest to fetch data from the server
+var xhr = new XMLHttpRequest();
+xhr.open('GET', '/api/chart3data', true);
+xhr.onload = function () {
+  if (xhr.status === 200) {
+    var data = JSON.parse(xhr.responseText);
+    createInteractiveMap(data);
+  } else {
+    console.error('Failed to fetch data. Status:', xhr.status);
+  }
+};
+xhr.send();
 
-    // Extract unique years from the data for dropdown options
-    var uniqueYears = [...new Set(data.map(item => item.year))];
+// Function to create an interactive map based on the provided data
+function createInteractiveMap(data) {
+  const uniqueYears = [...new Set(data.map(item => item.year))];
+  const yearDropdown3 = document.getElementById('yearDropdown3');
 
-    // Add a dropdown for selecting the year
-    var yearDropdown = L.DomUtil.create('select', 'year-dropdown');
-    yearDropdown.innerHTML = '<option value="">Select Year</option>';
-    uniqueYears.forEach(year => {
-        var option = L.DomUtil.create('option');
-        option.value = year;
-        option.textContent = year;
-        yearDropdown.appendChild(option);
-    });
 
-    // Add the dropdown to the map
-    yearDropdown.onchange = function () {
-        var selectedYear = this.value;
-        updateMarkers(selectedYear);
-    };
-    map.getContainer().appendChild(yearDropdown);
+  // Populate the dropdown with options for each unique year
+  uniqueYears.forEach(year => {
+    const option = document.createElement('option');
+    option.value = year;
+    option.text = year;
+    yearDropdown3.appendChild(option);
+  });
 
-    // Function to update markers based on the selected year
-    function updateMarkers(selectedYear) {
-        markers.clearLayers();
+// Add an event listener to the dropdown to update the map markers when the year changes
+  yearDropdown3.addEventListener('change', function () {
+    const selectedYear = parseInt(this.value);
+    updateMapMarkers(data, selectedYear);
+  });
 
-        data
-            .filter(item => selectedYear === '' || item.year === selectedYear)
-            .forEach(item => {
-                // Set marker color based on the range of suicides per 100K
-                var markerColor = item['suicides/100k pop'] > 15 ? 'red' :
-                                  item['suicides/100k pop'] > 10 ? 'yellow' :
-                                  'green';
-
-                // Create a marker with a popup
-                var marker = L.circleMarker([item.latitude, item.longitude], {
-                    color: 'black',
-                    fillColor: markerColor,
-                    fillOpacity: 0.7,
-                    radius: 10
-                }).bindPopup(`
-                    <b>${item.country}</b><br>
-                    Year: ${item.year}<br>
-                    Suicides/100K: ${item['suicides/100k pop']}<br>
-                    GDP per Capita: ${item.gdp_per_capita}
-                `);
-
-                markers.addLayer(marker);
-            });
-
-        map.addLayer(markers);
-    }
-
-    // Call the function initially to display all markers
-    updateMarkers('');
+  updateMapMarkers(data, uniqueYears[0]);
 }
 
-// Fetch data from the API endpoint
-fetch('/api/chart3data')
-    .then(response => response.json())
-    .then(data => {
-        // Call the function to initialize the map with the fetched data
-        chart3(data);
+// Function to update map markers based on the selected year
+function updateMapMarkers(data, selectedYear) {
+    map.eachLayer(layer => {
+      if (layer instanceof L.Marker) {
+        map.removeLayer(layer);
+      }
     });
+  
+    // Filter data for the selected year
+    const filteredData = data.filter(item => item.year === selectedYear);
+  
+    filteredData.forEach(location => {
+      const marker = L.marker([location.latitude, location.longitude]).addTo(map);
+  
+       // Define popup content for each marker
+      const popupContent = `<strong>${location["country"]}</strong><br>
+                            Year: ${location.year}<br>
+                            GDP per capita: ${location.gdp_per_capita}<br>
+                            Suicides per 100K: ${location.Number_of_suicides_per_100K}`;
+  
+      marker.bindPopup(popupContent);
+    });
+  }
