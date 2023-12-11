@@ -24,10 +24,6 @@ def api_suicides_data():
 @app.route("/api/province_data")
 def api_province_data():
     return jsonify(read_csv_and_handle_errors('Resources/province_data.csv'))
-    
-@app.route("/api/lat_and_long")
-def lat_and_long():
-    return jsonify(read_csv_and_handle_errors('Resources/world_country_latitude_and_longitude.csv'))
 
 @app.route("/api/pie_chart")
 def pie_chart():
