@@ -105,7 +105,8 @@ function renderChart(data) {
         xaxis: {
             categories: years,
             labels: {
-                rotate: -45
+                rotate: -45,
+                rotateAlways: true
               },
         },
         legend: {
