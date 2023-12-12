@@ -6,6 +6,22 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap contributors'
 }).addTo(map);
 
+// Define custom icons
+var greenIcon = L.icon({
+  iconUrl: 'green-icon.png',
+  iconSize: [25, 25], // Adjust the size as needed
+});
+
+var yellowIcon = L.icon({
+  iconUrl: 'yellow-icon.png',
+  iconSize: [25, 25],
+});
+
+var redIcon = L.icon({
+  iconUrl: 'red-icon.png',
+  iconSize: [25, 25],
+});
+
 // Create a new XMLHttpRequest to fetch data from the server
 var xhr = new XMLHttpRequest();
 xhr.open('GET', '/api/chart3data', true);
@@ -24,7 +40,6 @@ function createInteractiveMap(data) {
   const uniqueYears = [...new Set(data.map(item => item.year))];
   const yearDropdown3 = document.getElementById('yearDropdown3');
 
-
   // Populate the dropdown with options for each unique year
   uniqueYears.forEach(year => {
     const option = document.createElement('option');
@@ -33,7 +48,7 @@ function createInteractiveMap(data) {
     yearDropdown3.appendChild(option);
   });
 
-// Add an event listener to the dropdown to update the map markers when the year changes
+  // Add an event listener to the dropdown to update the map markers when the year changes
   yearDropdown3.addEventListener('change', function () {
     const selectedYear = parseInt(this.value);
     updateMapMarkers(data, selectedYear);
@@ -44,24 +59,34 @@ function createInteractiveMap(data) {
 
 // Function to update map markers based on the selected year
 function updateMapMarkers(data, selectedYear) {
-    map.eachLayer(layer => {
-      if (layer instanceof L.Marker) {
-        map.removeLayer(layer);
-      }
-    });
-  
-    // Filter data for the selected year
-    const filteredData = data.filter(item => item.year === selectedYear);
-  
-    filteredData.forEach(location => {
-      const marker = L.marker([location.latitude, location.longitude]).addTo(map);
-  
-       // Define popup content for each marker
-      const popupContent = `<strong>${location["country"]}</strong><br>
-                            Year: ${location.year}<br>
-                            GDP per capita: ${location.gdp_per_capita}<br>
-                            Suicides per 100K: ${location.Number_of_suicides_per_100K}`;
-  
-      marker.bindPopup(popupContent);
-    });
-  }
+  map.eachLayer(layer => {
+    if (layer instanceof L.Marker) {
+      map.removeLayer(layer);
+    }
+  });
+
+  // Filter data for the selected year
+  const filteredData = data.filter(item => item.year === selectedYear);
+
+  filteredData.forEach(location => {
+    // Choose the icon based on the number of suicides
+    let icon;
+    if (location.Number_of_suicides_per_100K < 50) {
+      icon = greenIcon;
+    } else if (location.Number_of_suicides_per_100K >= 50 && location.Number_of_suicides_per_100K < 75) {
+      icon = yellowIcon;
+    } else {
+      icon = redIcon;
+    }
+
+    const marker = L.marker([location.latitude, location.longitude], { icon: icon }).addTo(map);
+
+    // Define popup content for each marker
+    const popupContent = `<strong>${location["country"]}</strong><br>
+                          Year: ${location.year}<br>
+                          GDP per capita: ${location.gdp_per_capita}<br>
+                          Suicides per 100K: ${location.Number_of_suicides_per_100K}`;
+
+    marker.bindPopup(popupContent);
+  });
+}
