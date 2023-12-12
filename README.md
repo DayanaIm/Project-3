@@ -1,5 +1,11 @@
 # Exploring the Spectrum of Suicide Rates: Project Three
 
+## [DEPLOYED WEBPAGE](https://dayanaim.pythonanywhere.com/) (make sure to open it on the computer browser because it is not optimized for phones)
+### [API END POINT 1](https://dayanaim.pythonanywhere.com/api/suicides_data)
+### [API END POINT 2](https://dayanaim.pythonanywhere.com/api/pie_chart)
+### [API END POINT 3](https://dayanaim.pythonanywhere.com/api/chart3data)
+### [API END POINT 3](https://dayanaim.pythonanywhere.com/api/province_data)
+
 ## Collaborators: 
 - Dalya Lami
 - Ali Alam
