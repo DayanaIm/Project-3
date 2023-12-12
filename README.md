@@ -7,10 +7,10 @@
 ### [API END POINT 3](https://dayanaim.pythonanywhere.com/api/province_data)
 
 ## Collaborators: 
-- Dalya Lami
-- Ali Alam
-- Jahn Ferdinandus
-- Dayana Imanova
+- [Dalya Lami](https://github.com/DalyaLami)
+- [Ali Alam](https://github.com/AliAlam1998)
+- [Jahn Ferdinandus](https://github.com/jahnferdinandus)
+- [Dayana Imanova](https://github.com/DayanaIm)
 
 
 ## Table of Contents
