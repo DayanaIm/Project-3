@@ -22,6 +22,23 @@ var redIcon = L.icon({
   iconSize: [25, 25],
 });
 
+// Legend
+var legend = L.control({ position: 'topright' });
+
+legend.onAdd = function (map) {
+  var div = L.DomUtil.create('div', 'info legend');
+  div.style.backgroundColor = 'rgba(115, 108, 237, 0.6)';  // Set the background color to more translucent #736CED
+  div.style.boxShadow = '0 0 10px rgba(0, 0, 0, 0.5)';  // Add a shadow with a transparency level
+  div.innerHTML +=
+    '<strong>Markers</strong><br>' +
+    '<img src="green-icon.png"> <span>Less than 50 Suicides per 100K</span><br>' +
+    '<img src="yellow-icon.png"> <span>50 to 75 Suicides per 100K</span><br>' +
+    '<img src="red-icon.png"> <span>More than 75 Suicides per 100K</span>';
+  return div;
+};
+
+legend.addTo(map);
+
 // Create a new XMLHttpRequest to fetch data from the server
 var xhr = new XMLHttpRequest();
 xhr.open('GET', '/api/chart3data', true);
