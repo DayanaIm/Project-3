@@ -46,6 +46,8 @@ to a nuanced understanding of the economic factors influencing suicide rates on 
 Before you begin, ensure you have the following installed:
 - Python 3.x
 - Flask
+- JavaScript
+- HTML/CSS
 - Required Python packages (Pandas)
 
 ## Installing
